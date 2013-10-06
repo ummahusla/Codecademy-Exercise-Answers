@@ -1,0 +1,33 @@
+p {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 1em;
+}
+#main {
+    position: relative;
+    top: 170px;
+    float: left;
+}
+.right {
+    position: relative;
+    top: -40px;
+    float: right;
+}
+#header {
+    width: 100%;
+    height: 70px;
+    position: relative;
+    top: -40px;
+    background-color: #7FC7AF;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.left {
+    position: relative;
+    top: -40px;
+    float: left;
+}
+h2 {
+    font-family: Verdana, Arial, sans-serif;
+    text-align: center;
+    color: #FFFFFF;
+}

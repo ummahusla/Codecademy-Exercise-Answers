@@ -1,0 +1,144 @@
+body, .details {
+  background: #ccc;
+}
+
+.hide {
+    position: absolute;
+    display: block;
+    top: -9999em;
+    left: -9999em;
+}
+
+.clear { clear: both; }
+
+.half {
+    float: left;
+    width: 50%;
+}
+
+.header, .experiences, .details {
+    padding: 20px;    
+}
+
+.header {
+  background: #222;
+  color: white;
+  top: 0;
+  left: 0;
+  right: 0;
+  position: fixed;
+  height: 130px;
+  
+  /* rgba is a different way of expressing color in
+     terms of its RGB components with Alpha (transparency) */
+  -webkit-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.6);
+  -moz-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.6);
+  
+  text-shadow: 1px 1px 0 #000;
+}
+
+.header .name {
+    float: left;
+    width: 300px;
+}
+
+.header h1 {
+  font-size: 42px;
+  margin-bottom: 10px;
+}
+
+.header h2 {
+  font-family: "Georgia", Serif;      
+  font-weight: normal;
+  font-style: italic;
+  color: #666;
+}
+
+.header dl {
+    float: right;
+    margin: 0;
+}
+
+.experiences {
+  background: #eee;
+  margin-top: 170px;
+}
+
+.experiences h3 {
+    font-size: 30px;
+    line-height: 36px;
+    margin: 0 -20px 20px -20px;
+    padding: 0 20px 10px 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.experiences h4 {
+    float: left;
+}
+
+.experiences h5,
+.experiences h6 {
+    float: right;
+}
+
+.experiences h6 {
+    clear: right;
+}
+
+.experiences ul {
+    clear: both;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.skills h3, .education h3 {
+  font-family: Georgia, Serif;
+  font-weight: normal;
+  font-size: 24px;
+}
+
+.skills ul {
+    list-style-type: none;
+    margin: 0 0 10px 0;
+}
+
+.skills ul li {
+    float: left;
+    margin: 0 5px 5px 0;
+    font-size: 90%;
+    background: #b3b3b3;
+    padding: 4px;
+    
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.skills h6 {
+    clear: left;
+}
+
+dl dt {
+  color: #555;
+}
+
+dl dd {
+    margin: 0 0 10px 0;
+}
+
+.education dl dd:first-of-type {
+  font-weight: bold;
+  font-size: 16px;      
+}
+
+.education dl dd:not(:first-of-type) {
+  color: #666;
+  float: left;
+}    
+
+.education dl dt:not(:first-of-type) {
+  float: left;
+  clear: left;
+  width: 70px;
+}

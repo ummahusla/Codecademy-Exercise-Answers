@@ -1,0 +1,37 @@
+div {
+	position: relative;
+	display: inline-block;
+	height: 100px;
+	width: 100px;
+	border-radius: 100%;
+	border: 2px solid black;
+	margin-left: 5px;
+	margin-top: 5px;
+	text-align: center;
+}
+
+div p {
+	position: relative;
+	margin-top: 40px;
+	font-size: 12px;
+}
+
+.friend {
+	border: 2px dashed green;
+}
+
+.family {
+	border: 2px dashed blue;
+}
+
+.enemy {
+	border: 2px dashed red;
+}
+
+#best_friend {
+	border: 4px solid #00C957;
+}
+
+#archnemesis {
+	border: 4px solid #cc0000;
+}

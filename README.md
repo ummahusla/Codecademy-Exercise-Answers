@@ -1,4 +1,4 @@
 codecademy-stuff
 ================
 
-Package of codes from Codecademy's exercises. 
+Package of codes for Codecademy's exercises. 

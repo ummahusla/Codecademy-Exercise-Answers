@@ -1,4 +1,4 @@
-codecademy-stuff
+<a href="www.codecademy.com">Codecademy useful stuff</a>
 ================
 
 Package of codes for Codecademy's exercises. 

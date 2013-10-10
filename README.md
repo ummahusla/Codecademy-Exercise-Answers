@@ -1,7 +1,8 @@
 <h2>Codecademy useful stuff</h2>
 ================
 
-Package of codes for Codecademy's exercises. 
+In this repo I tried to collect in all interesting exercises where people can be stucked, while going through Codecademy tasks. 
+I hope that can help a lot of people. If you think you have something interesting what you can add here, just do it :)
 
 
 <strong>Existing tracking languege or library:</strong>

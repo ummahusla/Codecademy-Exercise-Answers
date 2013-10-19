@@ -1,0 +1,632 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"link",
+				"link-visited"
+			],
+			[
+				"ti",
+				"title-color"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"cur",
+				"cur-p	cursor: pointer;"
+			],
+			[
+				"pos",
+				"pos-r	position: relative;"
+			],
+			[
+				"list",
+				"list-n	list-style-type: none;"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"backgroun",
+				"background-attachment"
+			],
+			[
+				"exec",
+				"execfile	(builtin, function)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"lint",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"sas",
+				"SassBeautify"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Python Markdown: Export HTML in Sublime Text"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Python Markdown: Export HTML in Sublime Text"
+			],
+			[
+				"markd",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"stra",
+				"Strapdown.js Markdown: Preview in Sublime Text"
+			],
+			[
+				"prev",
+				"Strapdown.js Markdown: Preview in Sublime Text"
+			],
+			[
+				"mar",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdown P",
+				"Pandoc: Render Markdown to temp HTML and View"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Hipster ipsum",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: bs3-thumbnail"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"run",
+				"Run"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 415.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/docs/Git/codecademy-stuff/Ruby/Hashes and Symbols/The Marriage of Hashes and Symbols/More Methods, More Solutions - #15.rb",
+		"/E/docs/Git/codecademy-stuff/Ruby/Hashes and Symbols/The Marriage of Hashes and Symbols/Becoming More Selective - #14.rb",
+		"/E/docs/Git/codecademy-stuff/Ruby/Hashes and Symbols/The Marriage of Hashes and Symbols/Dare To Compare - #13.rb",
+		"/E/docs/Git/codecademy-stuff/Ruby/Hashes and Symbols/The Marriage of Hashes and Symbols/The Hash Rocket Has Landed - #12/The Hash Rocket Has Landed.rb",
+		"/E/docs/Git/serve-bootstrap/sass/susy/_settings.scss",
+		"/E/docs/Git/serve-bootstrap/sass/susy/_typography.scss",
+		"/E/docs/Git/serve-bootstrap/sass/_base.scss",
+		"/E/docs/Git/serve-bootstrap/sass/susy/_support.scss",
+		"/E/docs/Git/serve-bootstrap/sass/susy/support/_support.scss",
+		"/E/docs/Git/serve-bootstrap/sass/susy/_size.scss",
+		"/E/docs/Git/serve-bootstrap/sass/_compass.scss",
+		"/E/docs/Git/serve-bootstrap/sass/susy/_grid.scss",
+		"/E/docs/Git/serve-bootstrap/sass/susy/_layout.scss",
+		"/E/docs/Git/serve-bootstrap/sass/compass/_support.scss",
+		"/E/docs/Git/serve-bootstrap/sass/_susy.scss",
+		"/E/docs/Git/serve-bootstrap/sass/susy/_modular-scale.scss",
+		"/E/docs/Git/serve-bootstrap/config.rb",
+		"/C/Users/brain/Dropbox/Webfiles/Frameworks/gumby custom/config.rb",
+		"/C/Users/brain/Dropbox/Webfiles/Frameworks/gumby custom/sass/_base.scss",
+		"/C/Users/brain/Dropbox/Webfiles/Frameworks/gumby custom/sass/gumby.scss",
+		"/E/docs/Git/serve-bootstrap/sass/modules/modular-scale/lib/modular-scale.rb",
+		"/E/docs/Git/serve-bootstrap/sass/modules/modular-scale/stylesheets/_modular-scale.scss",
+		"/E/docs/Git/serve-bootstrap/sass/modules/sassy-math/stylesheets/_math.scss",
+		"/E/docs/Git/serve-bootstrap/sass/modules/sassy-math/lib/sassy-math.rb",
+		"/C/Users/brain/Dropbox/Webfiles/Frameworks/gumby custom/sass/_fonts.scss",
+		"/C/Users/brain/Dropbox/Webfiles/Frameworks/gumby custom/sass/_custom.scss",
+		"/C/Users/brain/Dropbox/Webfiles/Frameworks/gumby custom/sass/_grid.scss",
+		"/C/Users/brain/Dropbox/Webfiles/Frameworks/gumby custom/sass/_typography.scss",
+		"/E/docs/Git/serve-bootstrap/sass/stylesheet.scss",
+		"/C/Users/brain/Dropbox/Webfiles/Frameworks/susy-master/test/scss/background.scss",
+		"/C/Users/brain/Dropbox/Webfiles/Frameworks/susy-master/templates/project/screen.scss",
+		"/C/Users/brain/Dropbox/Webfiles/Frameworks/susy-master/templates/project/_base.scss",
+		"/C/Users/brain/Dropbox/Webfiles/Frameworks/susy-master/sass/_susy.scss",
+		"/C/Users/brain/Dropbox/Webfiles/Frameworks/susy-master/docs/source/stylesheets/site.css.scss",
+		"/C/Users/brain/Dropbox/Webfiles/Frameworks/susy-master/docs/source/stylesheets/grid-types.css.scss",
+		"/C/Users/brain/Dropbox/Webfiles/Frameworks/susy-master/docs/source/stylesheets/_layout.scss",
+		"/C/Users/brain/Dropbox/Webfiles/Frameworks/susy-master/docs/source/stylesheets/_base/_base.scss",
+		"/E/docs/Git/serve-bootstrap/sass/susy/_colors.scss",
+		"/E/docs/Git/serve-bootstrap/sass/susy/_type.scss",
+		"/E/docs/Git/serve-bootstrap/sass/susy/_background.scss",
+		"/E/docs/Git/serve-bootstrap/sass/compass/_layout.scss",
+		"/E/docs/Git/serve-bootstrap/sass/modules/compass/_layout.scss",
+		"/E/docs/Git/serve-bootstrap/sass/modules/_nav.scss",
+		"/E/docs/Git/serve-bootstrap/sass/modules/_pages.scss",
+		"/E/docs/Git/serve-bootstrap/sass/modules/_contentinfo.scss",
+		"/E/docs/Git/serve-bootstrap/sass/modules/_banner.scss",
+		"/E/docs/Git/serve-bootstrap/sass/modules/_ag-test.scss",
+		"/E/docs/Git/serve-bootstrap/sass/modules/_secondary.scss",
+		"/E/docs/Git/serve-bootstrap/sass/modules/_susy.scss",
+		"/E/docs/Git/serve-bootstrap/sass/modules/_intro.scss",
+		"/E/docs/Git/serve-bootstrap/sass/modules/_compass.scss",
+		"/E/docs/Git/serve-bootstrap/views/index.html.haml",
+		"/E/docs/Git/serve-bootstrap/sass/partials/_minimal-base-styles.scss",
+		"/E/docs/Git/serve-bootstrap/sass/partials/_color.scss",
+		"/E/docs/Git/serve-bootstrap/sass/modules/compass/_utilities.scss",
+		"/E/docs/Git/serve-bootstrap/sass/modules/compass/_reset.scss",
+		"/E/docs/Git/serve-bootstrap/sass/modules/_slider.scss",
+		"/E/docs/Git/serve-bootstrap/sass/demos/_demo.scss",
+		"/E/docs/Git/serve-bootstrap/sass/modules/compass/reset/_utilities.scss",
+		"/E/docs/Git/serve-bootstrap/views/about.html.haml",
+		"/E/docs/Git/serve-bootstrap/sass/_modules/compass/css3/_transform-legacy.scss",
+		"/E/docs/Git/serve-bootstrap/sass/_modules/compass/reset/_utilities-legacy.scss",
+		"/E/docs/Cyberpunk Manifesto_files/style.php",
+		"/E/docs/Cyberpunk Manifesto_files/ga.js",
+		"/E/docs/Git/serve-bootstrap/public/stylesheets/stylesheet.css",
+		"/E/docs/Git/serve-bootstrap/config.ru",
+		"/E/docs/Git/serve-bootstrap/public/stylesheets/_vendor/pygments/solarized.css",
+		"/E/docs/Git/serve-bootstrap/sass/_base/_colors.scss",
+		"/E/docs/Git/serve-bootstrap/sass/_base/_size.scss",
+		"/E/docs/Git/serve-bootstrap/sass/_base/_type.scss",
+		"/E/docs/Git/serve-bootstrap/sass/_base/_base.scss",
+		"/E/docs/Git/serve-bootstrap/sass/partials/_typography.scss",
+		"/E/docs/Git/serve-bootstrap/sass/partials/_non-semantic-helper-classes.scss",
+		"/C/Users/brain/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/docs/Git/serve-bootstrap/public/CNAME",
+		"/E/docs/Git/serve-bootstrap/Gemfile.lock",
+		"/E/docs/Git/serve-bootstrap/Gemfile",
+		"/C/Users/brain/Dropbox/hoomag/index.html",
+		"/C/Users/brain/Dropbox/hoomag/sass/susy/_functions.scss",
+		"/C/Users/brain/Dropbox/hoomag/sass/style.scss",
+		"/C/Users/brain/Dropbox/hoomag/sass/_base/_base.scss",
+		"/C/Users/brain/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/brain/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/brain/Dropbox/Webfiles/Tidbits/FamilyTree/tree.css",
+		"/C/Users/brain/Dropbox/Webfiles/Tidbits/FamilyTree/familytree.html",
+		"/E/docs/Git/codecademy-stuff/README.md",
+		"/C/Users/brain/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/C/Users/brain/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/C/Users/brain/Desktop/README.html",
+		"/C/Users/brain/Dropbox/hoomag/sass/_modular-scale.scss",
+		"/C/Users/brain/Dropbox/hoomag/sass/_modules/_pages.scss",
+		"/C/Users/brain/Dropbox/hoomag/sass/_general/_type.scss",
+		"/C/Users/brain/Dropbox/hoomag/sass/magic.css.scss",
+		"/C/Users/brain/Dropbox/hoomag/config.rb",
+		"/C/Users/brain/Dropbox/hoomag/sass/print.scss",
+		"/C/Users/brain/Dropbox/hoomag/sass/screen.scss",
+		"/C/Users/brain/Dropbox/hoomag/sass/site.css.scss",
+		"/C/Users/brain/Dropbox/hoomag/sass/grid-types.css.scss",
+		"/C/Users/brain/Dropbox/hoomag/sass/_vendor/pygments/solarized.scss",
+		"/C/Users/brain/Dropbox/hoomag/html/about.html",
+		"/C/Users/brain/Dropbox/hoomag/sass/_base/_colors.scss",
+		"/C/Users/brain/Dropbox/hoomag/sass/_base.scss",
+		"/C/Users/brain/Dropbox/hoomag/html/shop.html",
+		"/C/Users/brain/Dropbox/hoomag/html/gallery.html",
+		"/C/Users/brain/Dropbox/hoomag/sass/night.scss",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/css/style.css",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/sass/_reset.scss",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/style.css",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/sass/_repeat.scss",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/sass/_navigation.scss",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/config.rb",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/sass/_header.scss",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/sass/_content.scss",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/sass/_queries.scss",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/css/editor-style.css",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/sass/_widgets.scss",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/sass/_structure.scss",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/sass/_sidebar.scss",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/sass/_footer.scss",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/sass/style.scss",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/sass/ie.scss",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/sass/print.scss",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/sass/screen.scss",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/functions.php",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/sass/_base.scss",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/css/content.css",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/css/structure.css",
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/sass/content.scss"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"compass",
+			"susy-backgr",
+			"mixin container",
+			"bio",
+			"'",
+			" class=\"exercise\"",
+			"div",
+			"Lesson",
+			"lesson",
+			"Lesson",
+			"lesson",
+			"Lesson",
+			"20px",
+			"50px",
+			"\\",
+			"four",
+			"three",
+			"two",
+			"one",
+			"five",
+			"site-description",
+			"header-text",
+			"comment-respond",
+			"comment",
+			"body",
+			"body {",
+			"entry-content",
+			"entry-content p",
+			"entry-con",
+			"color",
+			"hyphen",
+			"hoomag-style",
+			"wp_register",
+			"wp_register_style",
+			"entry-title",
+			"ENTRY-title",
+			"comment-conte",
+			"comment-content",
+			"comment-conte",
+			"comment-",
+			"url",
+			" */",
+			"6.0",
+			"4.1",
+			"include",
+			"site-header",
+			"Twenty",
+			"Twenty Thirteen",
+			"Thirteen",
+			"Twenty Thirteen ",
+			"twentythirteen",
+			"twentythirteen_",
+			"function twentythirteen",
+			" * @subpackage Hoomag",
+			" * @since Twenty Thirteen 1.0",
+			"@subpackage Twenty_Thirteen",
+			" class=\"retort\"",
+			" class=\"assert\"",
+			"calibre1",
+			" class=\"calibre2\"",
+			"  <p class=\"softbreak\">&nbsp;</p>",
+			"<p class=\"whitespace\">&nbsp;</p>",
+			"<br><br>",
+			"&gt;",
+			"&lt;",
+			"after",
+			"p>AN ESSAY",
+			"\n    <p>AN",
+			"\n    <p>",
+			"mp;",
+			"&",
+			"amp;",
+			"&gt;",
+			"&lt;",
+			", ",
+			";",
+			"</p>",
+			"></section>",
+			"</div>",
+			"div class=\"newpage\"",
+			"stylesheets",
+			"\"\"",
+			"\"note\"",
+			"ub",
+			"</sub>",
+			"/s",
+			"<s",
+			"sub",
+			"ol>",
+			"</li>",
+			"d=",
+			"h3",
+			"&lt;",
+			"images",
+			"56",
+			"title",
+			"h2",
+			"hr",
+			"hr>",
+			"</h3>",
+			"h2",
+			"## ",
+			"The designer",
+			"the designer",
+			"designer",
+			"](",
+			"ctrl+alt",
+			"115",
+			"lobs",
+			"2",
+			"font-size",
+			"2, 2",
+			"130",
+			"2, 2;",
+			"(2, 2)",
+			"1,",
+			" 1, ",
+			"2,",
+			"1.75, 1.75)",
+			" img-circle",
+			"img-circle",
+			"130",
+			"nlarge",
+			"ge",
+			" img-circle",
+			"caption",
+			"class=\"caption\" ",
+			"img-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Hoomag",
+			"Hoomag ",
+			"hoomag",
+			"hoomag_",
+			"function hoomag",
+			"*",
+			"",
+			"@subpackage Hoomag"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 106.0
+	},
+	"output.exec":
+	{
+		"height": 152.0
+	},
+	"output.markdown":
+	{
+		"height": 130.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"project": "codecademy.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 297.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

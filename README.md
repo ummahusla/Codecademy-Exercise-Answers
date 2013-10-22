@@ -14,7 +14,7 @@ I hope that can help a lot of people. If you think you have something interestin
 <li>jQuery</li>
 <li>PHP</li>
 <li>Python</li>
-<li>Ruby</li>m
+<li>Ruby</li>
 <li>Web projects</li>
 <li>APIs</li>
 <li>Multimedia projects</li>

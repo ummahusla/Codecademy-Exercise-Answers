@@ -87,6 +87,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "Ruby/A Night At the Movies/#3 - The Case Statement.rb",
+			"settings":
+			{
+				"buffer_size": 1218,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -236,6 +244,9 @@
 	},
 	"file_history":
 	[
+		"/E/docs/Git/codecademy-stuff/Ruby/A Night At the Movies/#4 - Prompting Redux",
+		"/E/docs/Git/codecademy-stuff/Ruby/A Night At the Movies/#4 - Prompting Redux.rb",
+		"/E/docs/Git/codecademy-stuff/README.md",
 		"/E/docs/Git/codecademy-stuff/Ruby/Hashes and Symbols/The Marriage of Hashes and Symbols/More Methods, More Solutions - #15.rb",
 		"/E/docs/Git/codecademy-stuff/Ruby/Hashes and Symbols/The Marriage of Hashes and Symbols/Becoming More Selective - #14.rb",
 		"/E/docs/Git/codecademy-stuff/Ruby/Hashes and Symbols/The Marriage of Hashes and Symbols/Dare To Compare - #13.rb",
@@ -321,7 +332,6 @@
 		"/C/Users/brain/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/C/Users/brain/Dropbox/Webfiles/Tidbits/FamilyTree/tree.css",
 		"/C/Users/brain/Dropbox/Webfiles/Tidbits/FamilyTree/familytree.html",
-		"/E/docs/Git/codecademy-stuff/README.md",
 		"/C/Users/brain/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
 		"/C/Users/brain/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
 		"/C/Users/brain/Desktop/README.html",
@@ -361,9 +371,7 @@
 		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/sass/screen.scss",
 		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/functions.php",
 		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/sass/_base.scss",
-		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/css/content.css",
-		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/css/structure.css",
-		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/sass/content.scss"
+		"/C/BitNami/rubystack/apps/wordpress/htdocs/wp-content/themes/hoomag/css/content.css"
 	],
 	"find":
 	{
@@ -535,8 +543,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "Ruby/A Night At the Movies/#3 - The Case Statement.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1218,
+								1218
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],

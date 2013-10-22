@@ -1,0 +1,644 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"transition",
+				"transition-property"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"b",
+				"body	Tag"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"cur",
+				"cur-p	cursor: pointer;"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"list",
+				"list-n	list-style-type: none;"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"backgroun",
+				"background-attachment"
+			],
+			[
+				"exec",
+				"execfile	(builtin, function)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"selected_items":
+		[
+			[
+				"snipp",
+				"Snippet: ++ Shortcut to @extend"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"org",
+				"Set Syntax: orgmode"
+			],
+			[
+				"conf",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"find",
+				"FindKeyConflicts: (Direct) Conflicts to Quick Panel"
+			],
+			[
+				"fin",
+				"FindKeyConflicts: Overlap Conflicts"
+			],
+			[
+				"fi",
+				"FindKeyConflicts: Single Package Conflicts"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"Snippet: ht",
+				"Snippet: html"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Python Markdown: Export HTML in Sublime Text"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Python Markdown: Export HTML in Sublime Text"
+			],
+			[
+				"markd",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"stra",
+				"Strapdown.js Markdown: Preview in Sublime Text"
+			],
+			[
+				"prev",
+				"Strapdown.js Markdown: Preview in Sublime Text"
+			],
+			[
+				"mar",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"markdown P",
+				"Pandoc: Render Markdown to temp HTML and View"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Hipster ipsum",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: bs3-thumbnail"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"run",
+				"Run"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/brain/Dropbox/Webfiles/5am1am/config.rb",
+		"/C/Users/brain/Desktop/quick.scss",
+		"/C/Users/brain/Dropbox/Webfiles/5am1am/css/demo.css",
+		"/C/Users/brain/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/home/brain/.config/sublime-text-3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/home/brain/Dropbox/Webfiles/mytodo.TODO",
+		"/home/brain/Dropbox/Webfiles/5am1am/index.html",
+		"/home/brain/.config/sublime-text-3/Packages/orgmode/orgmode.sublime-settings",
+		"/home/brain/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/brain/.config/sublime-text-3/Packages/PlainTasks/Default (Linux).sublime-keymap",
+		"/home/brain/.config/sublime-text-3/Packages/orgmode/messages/install.org",
+		"/home/brain/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/home/brain/.config/sublime-text-3/Packages/User/Emmet.sublime-settings",
+		"/home/brain/.config/sublime-text-3/Packages/User/metablock.sublime-snippet",
+		"/home/brain/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/brain/.config/sublime-text-3/Packages/FindKeyConflicts/README.md",
+		"/home/brain/Dropbox/Examples.txt",
+		"/home/brain/Dropbox/Webfiles/5am1am/js/banner3.js",
+		"/home/brain/Dropbox/Webfiles/5am1am/css/demo.css",
+		"/home/brain/Dropbox/Webfiles/5am1am/js/ei.js",
+		"/home/brain/Dropbox/Webfiles/5am1am/html/questionaire.sublime-project",
+		"/home/brain/Dropbox/Webfiles/5am1am/img/ImageAttribution.txt",
+		"/home/brain/.config/sublime-text-3/Packages/SideBarEnhancements/CHANGELOG",
+		"/home/brain/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/brain/Dropbox/Webfiles/css demos/InteractiveTypographyEffects/index3.html",
+		"/home/brain/Dropbox/Webfiles/5am1am/js/modernizr.custom.41769.js",
+		"/home/brain/Dropbox/Webfiles/5am1am/robots.txt",
+		"/home/brain/Dropbox/Webfiles/css demos/AlternateStyleSheets/index.html",
+		"/home/brain/Dropbox/Webfiles/css demos/AlternateStyleSheets/style.css",
+		"/home/brain/Dropbox/Webfiles/css demos/InteractiveTypographyEffects/index.html",
+		"/home/brain/Dropbox/Webfiles/Frameworks/less/less-rhino-1.4.0.js",
+		"/home/brain/Dropbox/Webfiles/Frameworks/less/less-1.5.0-b3.min.js",
+		"/home/brain/Dropbox/Webfiles/Frameworks/less/less-1.5.0-b3.js",
+		"/home/brain/Dropbox/Webfiles/5am1am/js/less-rhino-1.4.0.js",
+		"/home/brain/Dropbox/paintstorys/robots.txt",
+		"/home/brain/Dropbox/Webfiles/5am1am/humans.txt",
+		"/home/brain/Dropbox/paintstorys/humans.txt",
+		"/home/brain/Dropbox/Webfiles/5am1am/5am.sublime-project",
+		"/home/brain/Dropbox/5am1am/html/peter.html",
+		"/home/brain/.config/sublime-text-3/Packages/User/View In Browser.sublime-settings",
+		"/home/brain/.config/sublime-text-3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/Brain/Desktop/Webfiles/5am1am/index.html",
+		"/C/Users/Brain/Desktop/snippets.txt",
+		"/C/Users/Brain/Desktop/plaets.html",
+		"/C/Users/Brain/Desktop/Webfiles/Frameworks/sass-bootstrap/css.html",
+		"/C/Users/Brain/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/Brain/Desktop/Webfiles/Frameworks/sass-bootstrap/customize.html",
+		"/C/Users/Brain/Desktop/Webfiles/Frameworks/sass-bootstrap/components.html",
+		"/C/Users/Brain/Desktop/Webfiles/Frameworks/sass-bootstrap/getting-started.html",
+		"/C/Users/Brain/Desktop/Webfiles/Frameworks/sass-bootstrap/index.html",
+		"/C/Users/Brain/Desktop/Webfiles/Frameworks/semanticgs/README.md",
+		"/C/Users/Brain/Desktop/Webfiles/5am1am/humans.txt",
+		"/C/Users/Brain/Desktop/Webfiles/Frameworks/semanticgs/stylesheets/styl/grid.styl",
+		"/C/Users/Brain/Desktop/Webfiles/5am1am/404.html",
+		"/C/Users/Brain/Downloads/Jaidee-Neptune-L/Jaidee-Neptune-L/index.html",
+		"/C/Users/Brain/Desktop/Webfiles/Frameworks/initializr/index.html",
+		"/C/Users/Brain/Desktop/index.html",
+		"/C/Users/Brain/Desktop/bootstrap.css",
+		"/H/Dropbox/paintstorys/css/bootstrap.css",
+		"/C/Users/Brain/Desktop/hello.js",
+		"/C/Users/Brain/Desktop/paint.html",
+		"/C/xampp/htdocs/myproject/sass/partials/01-variables/_colors.scss",
+		"/C/xampp/htdocs/myproject/config.rb",
+		"/C/Users/Brain/AppData/Local/Temp/LBKTemp_FileZilla/fz3temp-1/bootstrap.css",
+		"/C/xampp/htdocs/myproject/index.html",
+		"/C/Ruby200-x64/lib/ruby/gems/2.0.0/gems/survivalkit-0.3.4/stylesheets/survivalkit/survival_kit/_survival-kit.sass",
+		"/C/xampp/htdocs/newproj/my_project/config.rb",
+		"/C/xampp/htdocs/newproj/.htaccess",
+		"/C/xampp/htdocs/newproj/my_project/.htaccess",
+		"/C/xampp/htdocs/newproj/my_project/404.html",
+		"/C/xampp/htdocs/newproj/404.html",
+		"/C/xampp/htdocs/newproj/index.html",
+		"/C/xampp/htdocs/newproj/sass/_fluid.scss",
+		"/C/xampp/htdocs/newproj/stylesheets/selectivizr.css",
+		"/C/xampp/htdocs/newproj/sass/screen.scss",
+		"/C/xampp/htdocs/newproj/config.rb",
+		"/C/xampp/htdocs/newproj/sass/_base.scss",
+		"/C/xampp/htdocs/newproj/stylesheets/screen.css",
+		"/C/xampp/htdocs/newproj/stylesheets/main.css",
+		"/C/xampp/htdocs/newproj/sass/main.scss",
+		"/C/xampp/htdocs/newproj/sass/_normalize.scss",
+		"/C/xampp/htdocs/newproj/css/main.css",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/applications.html",
+		"/C/xampp/htdocs/xampp/ssi.shtml",
+		"/C/xampp/htdocs/restricted/index.html",
+		"/C/xampp/htdocs/bitnami.css",
+		"/C/xampp/htdocs/index.html",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/apache/conf/extra/httpd-xampp.conf",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/xampp/apache/logs/error.log",
+		"/C/xampp/mysql/bin/my.ini",
+		"/C/xampp/apache/conf/extra/httpd-ssl.conf",
+		"/C/Users/Brain/Desktop/Webfiles/mryay/sass/_base.scss",
+		"/C/Users/Brain/Desktop/Webfiles/mryay/sass/mryay.scss",
+		"/C/Users/Brain/Desktop/Webfiles/mryay/sass/mryay.sass",
+		"/C/Users/Brain/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Brain/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Brain/Desktop/Webfiles/mryay/sass/ie.sass",
+		"/C/Users/Brain/Desktop/Webfiles/familytree/sass/mryay.scss",
+		"/C/Users/Brain/Desktop/Webfiles/familytree/tree.css",
+		"/C/Users/Brain/Desktop/Webfiles/familytree/stylesheets.backup/mryay.css",
+		"/C/Users/Brain/Desktop/Webfiles/familytree/mryay.html",
+		"/C/Users/Brain/Desktop/Webfiles/familytree/sass/_swing.scss",
+		"/C/Users/Brain/Desktop/Webfiles/familytree/sass/_hinge.scss",
+		"/C/Users/Brain/Desktop/Webfiles/familytree/stylesheets/mryay.css",
+		"/C/Users/Brain/Desktop/Webfiles/familytree/myay.html",
+		"/C/Users/Brain/Desktop/knightstour.py",
+		"/C/Users/Brain/Desktop/qjoin.PY",
+		"/C/Users/Brain/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Brain/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/Brain/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Brain/Desktop/Webfiles/hoomag/stylesheets/screen.css",
+		"/C/Users/Brain/Desktop/Webfiles/hoomag/sass/partials/_base.scss",
+		"/C/Users/Brain/Desktop/Webfiles/hoo/responsive/dev.html",
+		"/C/Users/Brain/Desktop/Webfiles/hoomag/sass/screen.scss",
+		"/C/Users/Brain/Desktop/Mobb Deep show at Epic.txt",
+		"/H/Dropbox/HOO/css/style.scss",
+		"/H/Dropbox/paintstorys/index.html",
+		"/H/Dropbox/paintstorys/css/styles.scss",
+		"/C/Users/Brain/Desktop/Webfiles/hoomag/index.html",
+		"/C/Users/Brain/Desktop/Webfiles/hoomag/html/about.html",
+		"/C/Users/Brain/Desktop/Webfiles/hoomag/html/events.html",
+		"/C/Users/Brain/Desktop/Webfiles/hoomag/html/lounge.html",
+		"/C/Users/Brain/Desktop/Webfiles/hoomag/html/reviews.html",
+		"/C/Users/Brain/Desktop/Webfiles/hoomag/css/screen.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\myproject"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"-ms",
+			"transform",
+			"20",
+			"-w",
+			"translateY",
+			"translatey",
+			"translateY",
+			"-o-",
+			"o",
+			";transform: translateY",
+			";transform: translateY(0)",
+			"transform: translateY(0);",
+			";transform: translateY(0)",
+			"moz",
+			"transform",
+			"shine",
+			"shines",
+			"10s",
+			"relative",
+			"absolutesolute",
+			"ab",
+			"keyframes",
+			"absolute",
+			"180",
+			"transform",
+			"nth",
+			"child",
+			"r",
+			"absolute",
+			"relative",
+			"#{background-color}:",
+			"rgb($red1*1.4, $green1, $blue1 * 1.1);",
+			"$rcol1",
+			"#{background-color}:$defcol hsla($rcol1, 90, 50, 1)",
+			" #{background-color}:invert(hsla($defcol,90,50,1)",
+			"#{background-color}:invert(hsla($defcol,90,50,1)",
+			"invert(hsla",
+			" hsla($rcol1, 90, 50, 1);4);",
+			"invert",
+			"$defcol2;",
+			"$defcol2",
+			"5);",
+			";3)",
+			";7)",
+			"defcol * ",
+			"defcol",
+			"$defcol",
+			",0",
+			"3d",
+			"0,",
+			",0,0",
+			"3d",
+			"up",
+			"\n ",
+			"meta",
+			"extend",
+			"curso",
+			"<script async src=\"http://codepen.io/assets/embed/ei.js\"></script>",
+			"body",
+			"4",
+			"canvas",
+			"wrapp",
+			"h5",
+			"article",
+			"\\",
+			"$black",
+			"badass",
+			"newproject",
+			"foot",
+			"css",
+			"$gutter",
+			"$brown",
+			"saddlebrown",
+			"$tall",
+			"$uarmlen",
+			"$larmlen",
+			"19% 3%",
+			"60",
+			"120",
+			"-45",
+			"0",
+			"50",
+			"40",
+			"20",
+			"50",
+			"15",
+			"40",
+			"30",
+			"3",
+			"19",
+			"50",
+			"45",
+			"130",
+			"8",
+			"4",
+			"12",
+			"15",
+			"10",
+			"20",
+			"25",
+			"30",
+			"45",
+			"0",
+			"90",
+			"5",
+			"0.5",
+			"50",
+			"40",
+			"mryay.scss */",
+			"/* line 376, ../sass/mryay.scss */\n",
+			"false",
+			"three",
+			"2",
+			"-3",
+			"-4",
+			"4",
+			"3",
+			"5",
+			"50",
+			"45",
+			"50",
+			"50deg",
+			"45",
+			"50",
+			"45",
+			"4",
+			"$calv",
+			"3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 152.0
+	},
+	"project": "#1 - Javascript meet jQuery.html.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 125.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

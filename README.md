@@ -11,11 +11,8 @@ Answers to Codecademy exercises
 <li>PHP</li>
 <li>Python</li>
 <li>Ruby</li>
-<<<<<<< HEAD
 <li>Web Projects</li>
-=======
 <li>Web projects</li>
->>>>>>> upstream/master
 <li>APIs</li>
 <li>Multimedia Projects</li>
 </ul>

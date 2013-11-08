@@ -4,7 +4,7 @@
     background-color: #00A0B0;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
-	height: 40px;
+    height: 40px;
 }
 
 h1 {
@@ -28,31 +28,29 @@ input {
 }
 
 textarea {
-	vertical-align: top;
-	width: 400px;
-	color: #777;
+    vertical-align: top;
+    width: 400px;
+    color: #777;
 }
 
 #wrapper {
+    position: relative;
     border-left: 1px solid #888;
     border-right: 1px solid #888;
     border-bottom: 1px solid #888;
-    position: relative;
     top: -10px;
-    padding-top: 10px;
-    padding-left: 20px;
-    padding-bottom: 20px;
+    padding:10px 0 20px 20px;
     box-shadow: 3px 3px 3px #444;
     font-family: Verdana, Arial, sans-serif;
     font-size: 0.8em;
 }
 
 #inputs {
-	width: 200px;
-	clear: both;
+    width: 200px;
+    clear: both;
 }
 
 #inputs input {
-	width: 100%;
-	clear: both;
+    width: 100%;
+    clear: both;
 }

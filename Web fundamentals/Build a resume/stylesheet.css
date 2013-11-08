@@ -3,13 +3,12 @@ div {
 }
 
 #header {
-	z-index: 1;
 	position: fixed;
 	width: 97.5%;
-	margin-top: -20px;
+	margin-top: -20px 0  10px 0;
 	height: 60px;
 	background-color: #668284;
-	margin-bottom: 10px;
+	z-index: 1;
 }
 
 #name {
@@ -37,9 +36,7 @@ h4 {
 }
 
 .right p {
-	margin-left: 5px;
-	margin-right: 5px;
-	margin-top: -10px;
+	margin:-10px 5px 0  5px;
 	font-family: Garamond, serif;
 	color: #000000;
 }

@@ -1,6 +1,10 @@
 # Codecademy
 
-Codecademy is an online interactive platform that offers free coding classes in seven different programming languages including Python, PHP, jQuery, JavaScript, and Ruby, as well as markup languages HTML and CSS. As of January 2014, the site had over 24 million users who had completed over 100 million exercises.  The site has received positive reviews from many blogs and websites, including the New York Times and TechCrunch.
+Codecademy is an online interactive platform that offers free coding classes in seven different programming languages including Python, **PHP**, jQuery, JavaScript, and Ruby, as well as markup languages HTML and CSS. As of January 2014, the site had over 24 million users who had completed over 100 million exercises.  The site has received positive reviews from many blogs and websites, including the New York Times and TechCrunch.
+
+## Structure
+
+ToDo: Add repo structure
 
 ## Language Skills
 
@@ -19,10 +23,10 @@ Codecademy is an online interactive platform that offers free coding classes in 
 
 ## Web Application Skills
 
-[Make a Website](http://www.codecademy.com/en/skills/make-a-website) - Build a recent version of Airbnb's home page and learn the fundamentals of web development in the process.
-[Make an Interactive Website](http://www.codecademy.com/en/skills/make-an-interactive-website) - Build the Flipboard home page and learn how to add interactivity to your website.
-[Make a Rails Application I](http://www.codecademy.com/en/learn/make-a-rails-app) - Build the Etsy site using Ruby on Rails and learn the essentials of database-backed web applications.
-[Learn AngularJS](http://www.codecademy.com/en/learn/learn-angularjs) - Learn to build web apps using AngularJS 1.x. By the end of the course, you'll be able to use AngularJS to create your own apps.
+[Make a Website](http://www.codecademy.com/en/skills/make-a-website) - Build a recent version of Airbnb's home page and learn the fundamentals of web development in the process.<br />
+[Make an Interactive Website](http://www.codecademy.com/en/skills/make-an-interactive-website) - Build the Flipboard home page and learn how to add interactivity to your website.<br />
+[Make a Rails Application I](http://www.codecademy.com/en/learn/make-a-rails-app) - Build the Etsy site using Ruby on Rails and learn the essentials of database-backed web applications.<br />
+[Learn AngularJS](http://www.codecademy.com/en/learn/learn-angularjs) - Learn to build web apps using AngularJS 1.x. By the end of the course, you'll be able to use AngularJS to create your own apps.<br />
 
 ## APIs
 
@@ -30,7 +34,7 @@ ToDo: Add list of APIs exercises with hiperlinks
 
 ## Usage
 
-Codecademy Q&A Forum is not always the best place to look for the answers. That's why I've decided to create this repo, to everyone who is struggling with the answer.
+Codecademy Q&A Forum is not always the best place to look for the answers. That's why I've decided to create this repo, to everyone who is struggling with the answer. Help yourself 
 
 ## Contributing
 

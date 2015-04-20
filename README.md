@@ -4,18 +4,18 @@ Codecademy is an online interactive platform that offers free coding classes in 
 
 ## Language Skills
 
-[HTML & CSS](http://www.codecademy.com/en/tracks/web) - Learn how to create websites by structuring and styling your pages with HTML and CSS.
-[JavaScript](http://www.codecademy.com/en/tracks/javascript) - Learn the fundamentals of JavaScript, the programming language of the Web.
-[jQuery](http://www.codecademy.com/en/tracks/jquery) - Learn how to make your websites interactive and create animations by using jQuery.
-[PHP](http://www.codecademy.com/en/tracks/php) - Learn to program in PHP, a widespread language that powers sites like Facebook.
-[Python](http://www.codecademy.com/en/tracks/python) - Learn to program in Python, a powerful language used by sites like YouTube and Dropbox.
+[HTML & CSS](http://www.codecademy.com/en/tracks/web) - Learn how to create websites by structuring and styling your pages with HTML and CSS. <br />
+[JavaScript](http://www.codecademy.com/en/tracks/javascript) - Learn the fundamentals of JavaScript, the programming language of the Web. <br />
+[jQuery](http://www.codecademy.com/en/tracks/jquery) - Learn how to make your websites interactive and create animations by using jQuery. <br />
+[PHP](http://www.codecademy.com/en/tracks/php) - Learn to program in PHP, a widespread language that powers sites like Facebook. <br />
+[Python](http://www.codecademy.com/en/tracks/python) - Learn to program in Python, a powerful language used by sites like YouTube and Dropbox. <br />
 [Ruby](http://www.codecademy.com/en/tracks/ruby) - Learn to program in Ruby, a ﬂexible language used to create sites like Codecademy.
 
 ## Goals
 
-[Animate Your Name](http://www.codecademy.com/en/goals/animate-your-name) - Create an animation of your name
-[About You](http://www.codecademy.com/en/goals/web-beginner-en-3pc6w) - Make a website all about you
-[Sun, Earth, and Code](http://www.codecademy.com/en/goals/web-beginner-en-ymqg0) - Build your own galaxy
+[Animate Your Name](http://www.codecademy.com/en/goals/animate-your-name) - Create an animation of your name <br />
+[About You](http://www.codecademy.com/en/goals/web-beginner-en-3pc6w) - Make a website all about you <br />
+[Sun, Earth, and Code](http://www.codecademy.com/en/goals/web-beginner-en-ymqg0) - Build your own galaxy <br />
 
 ## Web Application Skills
 

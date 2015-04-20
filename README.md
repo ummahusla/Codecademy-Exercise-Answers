@@ -14,13 +14,9 @@ Find exercise answer which are you stuck on and evaluate it, where you have made
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :)
 
-## History
-
-TODO: Write history
-
 ## Credits
 
-TODO: Write credits
+Big thanks goes to contributors.
 
 ## License
 

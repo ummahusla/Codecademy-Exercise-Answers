@@ -1,5 +1,5 @@
 ## 1. Why Learn HTML?
-```
+```html
 <!DOCTYPE html>
 <strong>Strong tag</strong>
 ```
@@ -15,7 +15,7 @@
 ```
 
 ## 3. Basic terminology
-```
+```html
 <!DOCTYPE html>
 <html>
 <body>
@@ -25,8 +25,7 @@
 ```
 
 ## 4. Make the head
-
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -39,7 +38,7 @@
 ```
 
 ## 5. Paragraphs in the body
-```
+```html
 <!DOCTYPE html>
 <html>
 	<head>
@@ -55,7 +54,7 @@
 ```
 
 ## 6. Paragraphs and headings
-```
+```html
 <!DOCTYPE html>
 <html>
 	<head>
@@ -72,7 +71,7 @@
 ```
 
 ## 7. More about headings!
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -95,8 +94,7 @@ Headings & Paragraphs
 ```
 
 ## 8. Using every heading
-
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -122,7 +120,7 @@ Headings & Paragraphs
 ```
 
 ## 9. Mid-lesson breather
-```
+```html
 <!DOCTYPE html>
 <html>
 	<head>
@@ -140,7 +138,7 @@ Headings & Paragraphs
 
 
 ## 10. You're going places!
-```
+```html
 <!DOCTYPE html>
 <html>
 	<head>
@@ -153,7 +151,7 @@ Headings & Paragraphs
 ```
 
 ## 11. Adding images
-```
+```html
 <!DOCTYPE html>
 <html>
 	<head>
@@ -167,7 +165,7 @@ Headings & Paragraphs
 ```
 
 ## 12. Click that image
-```
+```html
 <!DOCTYPE html>
 <html>
 	<head>
@@ -183,7 +181,7 @@ Headings & Paragraphs
 ```
 
 ## 13. Images and links
-```
+```html
 <!DOCTYPE html>
 <html>
 	<head>
@@ -200,7 +198,7 @@ Headings & Paragraphs
 ```
 
 ## 14. Congratulations!
-```
+```html
 <!DOCTYPE html>
 <html>
 	<head>

@@ -120,3 +120,92 @@ Headings & Paragraphs
 </body>
 </html>
 ```
+
+## 9. Mid-lesson breather
+```
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Jackpot</title>
+	</head>
+	<body>
+		<h3>H3 header</h3>
+		<p>My car</p>
+		<p>My pet</p>
+		<p>My Wolves</p>
+        
+	</body>
+</html>
+```
+
+
+## 10. You're going places!
+```
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+        <a href="http://www.codecademy.com">My Favorite Site!</a>
+	</body>
+</html>
+```
+
+## 11. Adding images
+```
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<img src="http://bit.ly/PK1euu" />
+        <img src="http://s3.amazonaws.com/codecademy-blog/assets/ninja_zpsa5dbe37a.jpg" />
+	</body>
+</html>
+```
+
+## 12. Click that image
+```
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<img src="http://bit.ly/PK1euu" />
+        <a href="http://www.codecademy.com/">
+            <img src="http://s3.amazonaws.com/codecademy-blog/assets/f3a16fb6.jpg"/>
+        </a>
+	</body>
+</html>
+```
+
+## 13. Images and links
+```
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<img src="http://bit.ly/PK1euu" />
+        <a href="http://www.codecademy.com/">
+            <img src="http://s3.amazonaws.com/codecademy-blog/assets/f3a16fb6.jpg"/>
+        </a>
+        <a href="http://www.codecademy.com/">Link</a>
+	</body>
+</html>
+```
+
+## 14. Congratulations!
+```
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body></body>
+</html>
+```

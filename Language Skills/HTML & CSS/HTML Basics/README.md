@@ -5,7 +5,7 @@
 ```
 
 ## 2. HTML and CSS
-```
+```html
 <!DOCTYPE html>
 <html>
 <body>

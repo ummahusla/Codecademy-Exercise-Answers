@@ -29,7 +29,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Bad to the Bonez Webpage Inc</title>
+    <title>Hustle Hard</title>
 </head>
 <body>
     GitHub is cool.
@@ -42,9 +42,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>
-		    Hustle Hard
-		</title>
+		<title>Hustle Hard</title>
 	</head>
 <body>
     <p>GitHub is Cool</p>
@@ -58,9 +56,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>
-		    Hustle Hard
-		</title>
+		<title>Hustle Hard</title>
 	</head>
 <body>
     <h1>It can be anything!</h1>	
@@ -75,9 +71,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>
-Headings & Paragraphs
-</title>
+<title>Hustle Hard</title>
 
 </head>
 <body>
@@ -98,7 +92,7 @@ Headings & Paragraphs
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Headings & Paragraphs</title>
+	<title>Hustle Hard</title>
 </head>
 <body>
 	

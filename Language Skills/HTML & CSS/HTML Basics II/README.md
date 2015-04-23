@@ -132,7 +132,7 @@
 </html>
 ```
 
-## 7. ntroduction
+## 7. Introduction
 ```html
 <!-- Make me into a comment. -->
 

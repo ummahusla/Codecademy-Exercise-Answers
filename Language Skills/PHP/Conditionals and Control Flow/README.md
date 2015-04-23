@@ -19,25 +19,6 @@
 </html>
 ```
 
-## 1. Comparisons
-```php
-<html>
-  <head>
-    <title>Our Shop</title>
-  </head>
-  <body>
-    <p>
-      <?php
-        $items =  15; 
-        if ($items > 5) {
-          echo "You get a 10% discount!";
-        }
-      ?>
-    </p>
-  </body>
-</html>
-```
-
 ## 2. If statements
 ```php
 <html>

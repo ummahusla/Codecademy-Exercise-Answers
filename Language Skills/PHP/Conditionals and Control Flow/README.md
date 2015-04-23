@@ -1,11 +1,105 @@
-## Contributing
+## 1. Comparisons
+```php
+<html>
+  <head>
+    <title>Comparing Numbers</title>
+  </head>
+  <body>
+    <p>
+      <?php
+        6 < 7
+        7 > 6
+        2 == 2
+        2 <= 3
+        3 >= 2
+        6 != 3
+      ?>
+    </p>
+  </body>
+</html>
+```
 
-This exercise answer is currently not available. If you already finished this task and you want to share your answer. Please follow these steps: 
+## 1. Comparisons
+```php
+<html>
+  <head>
+    <title>Our Shop</title>
+  </head>
+  <body>
+    <p>
+      <?php
+        $items =  15; 
+        if ($items > 5) {
+          echo "You get a 10% discount!";
+        }
+      ?>
+    </p>
+  </body>
+</html>
+```
 
-1. Fork it!
-2. Edit
-3. Commit.
-4. Push.
-5. Submit a pull request :D
+## 2. If statements
+```php
+<html>
+  <head>
+    <title>Our Shop</title>
+  </head>
+  <body>
+    <p>
+      <?php
+        $items =  15; 
+        if ($items > 5) {
+          echo "You get a 10% discount!";
+        }
+      ?>
+    </p>
+  </body>
+</html>
+```
 
-Thank for participating!
+## 3. Adding an Else
+```php
+<html>
+  <head>
+    <title>Our Shop</title>
+  </head>
+  <body>
+    <p>
+      <?php
+        $items =  15; 
+        if ($items > 5) {
+            echo "You get a 10% discount!";
+        } else { 
+            echo "You get a 5% discount!";
+        }
+      ?>
+    </p>
+  </body>
+</html>
+```
+
+## 4. All Together Now!
+```php
+<html>
+  <head>
+    <title>If, Elseif, and Else</title>
+  </head>
+  <body>
+    <p>
+      <?php
+        $guess = 7;
+        $number = 7;
+        
+        if ($guess < $number) {
+            echo "Too low!";
+        } elseif ($guess > $number) {
+            echo "Too high!";
+        } else { 
+            echo "You win!";
+        }
+        
+      ?>
+    </p>
+  </body>
+</html>
+```

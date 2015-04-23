@@ -457,11 +457,402 @@ p {
 
 
 
-## 13-26 ToDo
+## 13. Hexawhatnow?
 ```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+		<h1>I'm maroon!</h1>
+		<h2>I'm coral!</h2>
+		<h3>I'm goldenrod!</h3>
+		<h4>I'm sea green!</h4>
+		<h5>I'm royal blue!</h5>
+		<h6>I'm plum!</h6>
+	</body>
+</html>
+```
 
+```css
+h1 {
+	color: #8B1C62;
+}
+
+h2 {
+	color: #FF7256;
+}
+
+h3 {
+	color: #FFC125;
+}
+
+h4 {
+	color: #54FF9F;
+}
+
+h5 {
+	color: #530EE8;
+}
+
+h6 {
+	color: #8B668B;
+}
+```
+
+## 14. Roses are red...
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+		<h3>Roses are red.</h3>
+		<h2>Violets are blue!</h2>
+	</body>
+</html>
+```
+
+```css
+h3 {
+	color: #cc6666;
+}
+
+h2 {
+	color: #8a2be2;
+}
+```
+
+## 15. Pixels and ems
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Result</title>
+	</head>
+	<body>
+		<p style="font-size: 1em">One em!</p>
+		<p style="font-size: 0.5em">Half an em!</p>
+		<p style="font-size: 2em">TWO EM!</p>
+	</body>
+</html>
 ```
 
 ```css
 
+```
+
+## 16. A font of knowledge
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+		<h1>I'm going to be a serif font when I grow up!</h1>
+		<h2>I'm going to be a sans-serif font.</h2>
+		<h3>I'm going to be in cursive!</h3>
+	</body>
+</html>
+```
+
+```css
+h1 {
+    font-family: serif;
+}
+h2 {
+    font-family: sans-serif;
+}
+h3 {
+    font-family: cursive
+}
+```
+
+## 17. Backup values
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+		<h1>I'm going to be a serif font when I grow up!</h1>
+		<h2>I'm going to be a sans-serif font.</h2>
+		<h3>I'm going to be in cursive!</h3>
+	</body>
+</html>
+```
+
+```css
+h1 {
+    font-family:  Times, serif;
+}
+h2 {
+    font-family: Verdana, sans-serif;
+}
+h3 {
+    font-family: Vivaldi, cursive;
+}
+```
+
+## 18. Review
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>Free Play!</title>
+	</head>
+	<body>
+		<!--Go bananas!-->
+		
+	</body>
+</html>
+```
+
+```css
+/*Write your CSS below!*/
+/*You can leave it empty as well!*/
+```
+
+## 19. Background color, height, and width
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+	<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+		<div></div>
+	</body>
+</html>
+```
+
+```css
+div { 
+    background-color: #cc0000;
+    height: 100px;
+    width: 100px;
+}
+```
+
+## 20. Bordering on insanity
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title></title>
+	</head>
+	<body>
+		<table>
+			<thead>
+				<th colspan="3">Nine Blocks!</th>
+			</thead>
+			<tbody>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			</tbody>
+		</table>
+	</body>
+</html>
+```
+
+```css
+td {
+    height: 50px;
+    border: 1px dashed blue;
+}
+
+table { 
+    border: 1px solid black
+}
+```
+
+## 21. Links and text decoration
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+		<p>The below link goes to Google!</p>
+		<a href="http://www.google.com/">Google</a>
+	</body>
+</html>
+```
+
+```css
+a { 
+    color: #cc0000;
+    text-decoration: none;
+}
+```
+
+## 21. HTML + CSS = BFFs
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Result</title>
+        
+    <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+	</head>
+	<body></body>
+</html>
+```
+
+```css
+
+```
+
+## 23. Many selectors, many properties
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Result</title>
+    <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+	</head>
+	<body>
+     <h1>Anything I WANT</h1>  
+     <p>ofefgtnhjmydxsxdfgbhnjmkjhgfdefgyhjm
+     hfdzxr thbg dfrtghnj bvcdftgyhnjbv</p>
+	</body>
+</html>
+```
+
+```css
+h1 { 
+    color: #576D94;
+    font-family: Verdana;
+}
+
+p {
+    font-size: 18px;
+    color:#4A4943;
+}
+```
+
+## 24. Fall back!
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Result</title>
+        
+    <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+	</head>
+	<body>
+     <h1>Anything I WANT</h1>  
+     
+	</body>
+</html>
+```
+
+```css
+h1 { 
+    color: #576D94;
+    font-family: Verdana, sans-serif;
+}
+
+p {
+    font-family:Garamond, serif;
+}
+```
+
+## 25. Size and borders
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Result</title>
+        
+    <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+	</head>
+	<body>
+     <h1>Anything I WANT</h1>  
+     <img src="http://cdn-production.codecademy.com/assets/logo/logo--teal-d10b21a45b84379f184aa74fbd19ab8c.svg">
+	</body>
+</html>
+```
+
+```css
+h1 { 
+    color: #576D94;
+    font-family: Verdana, sans-serif;
+}
+
+p {
+    font-family:Garamond, serif;
+}
+
+img {
+    height:100px;
+    width:300px;
+    border: 1px solid #4682b4;
+}
+```
+
+## 26. Links and text decoration
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Result</title>
+        
+    <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+	</head>
+	<body>
+     <h1>Anything I WANT</h1>  
+     <img src="http://cdn-production.codecademy.com/assets/logo/logo--teal-d10b21a45b84379f184aa74fbd19ab8c.svg">
+	<a href="hhtp:/www.facebook.com">OP</a>
+        
+	</body>
+</html>
+```
+
+```css
+h1 { 
+    color: #576D94;
+    font-family: Verdana, sans-serif;
+}
+
+p {
+    font-family:Garamond, serif;
+}
+
+img {
+    height:100px;
+    width:300px;
+    border: 1px solid #4682b4;
+}
+
+a {
+    text-decoration: none;
+    color: #cc0000;
+}
 ```

@@ -30,7 +30,7 @@ ToDo: Add repo structure
 
 ## APIs
 
-ToDo: Add list of APIs exercises with hiperlinks
+ToDo: Add list of APIs exercises with hyperlinks
 
 ## Usage
 

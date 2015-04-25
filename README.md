@@ -3,11 +3,11 @@
 [Codecademy](http://www.codecademy.com/) is an online interactive platform that offers free coding classes in seven different programming languages including **Python**, **PHP**, **jQuery**, **JavaScript**, and **Ruby**, as well as markup languages **HTML** and **CSS**. As of January 2014, the site had over 24 million users who had completed over 100 million exercises. The site has received positive reviews from many blogs and websites, including the New York Times and TechCrunch.
 
 ## Structure
-[APIs](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs) 
-[Goals](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Goals) 
-[Language Skills](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Language%20Skills) 
-[Web Developer SKills](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Web%20Developer%20Skills) 
-[Non-trackable Content / Archieve](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Non-Trackable%20Content) 
+* [APIs](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs) 
+* [Goals](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Goals) 
+* [Language Skills](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Language%20Skills) 
+* [Web Developer SKills](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Web%20Developer%20Skills) 
+* [Non-trackable Content / Archieve](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Non-Trackable%20Content) 
 
 
 

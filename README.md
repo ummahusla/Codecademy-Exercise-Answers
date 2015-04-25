@@ -13,25 +13,25 @@
 
 ## Language Skills
 
-[HTML & CSS](http://www.codecademy.com/en/tracks/web) - Learn how to create websites by structuring and styling your pages with HTML and CSS. <br />
-[JavaScript](http://www.codecademy.com/en/tracks/javascript) - Learn the fundamentals of JavaScript, the programming language of the Web. <br />
-[jQuery](http://www.codecademy.com/en/tracks/jquery) - Learn how to make your websites interactive and create animations by using jQuery. <br />
-[PHP](http://www.codecademy.com/en/tracks/php) - Learn to program in PHP, a widespread language that powers sites like Facebook. <br />
-[Python](http://www.codecademy.com/en/tracks/python) - Learn to program in Python, a powerful language used by sites like YouTube and Dropbox. <br />
-[Ruby](http://www.codecademy.com/en/tracks/ruby) - Learn to program in Ruby, a ﬂexible language used to create sites like Codecademy.
+* [HTML & CSS](http://www.codecademy.com/en/tracks/web) - Learn how to create websites by structuring and styling your pages with HTML and CSS. 
+* [JavaScript](http://www.codecademy.com/en/tracks/javascript) - Learn the fundamentals of JavaScript, the programming language of the Web. 
+* [jQuery](http://www.codecademy.com/en/tracks/jquery) - Learn how to make your websites interactive and create animations by using jQuery. 
+* [PHP](http://www.codecademy.com/en/tracks/php) - Learn to program in PHP, a widespread language that powers sites like Facebook. 
+* [Python](http://www.codecademy.com/en/tracks/python) - Learn to program in Python, a powerful language used by sites like YouTube and Dropbox. <br />
+* [Ruby](http://www.codecademy.com/en/tracks/ruby) - Learn to program in Ruby, a ﬂexible language used to create sites like Codecademy.
 
 ## Goals
 
-[Animate Your Name](http://www.codecademy.com/en/goals/animate-your-name) - Create an animation of your name <br />
-[About You](http://www.codecademy.com/en/goals/web-beginner-en-3pc6w) - Make a website all about you <br />
-[Sun, Earth, and Code](http://www.codecademy.com/en/goals/web-beginner-en-ymqg0) - Build your own galaxy <br />
+* [Animate Your Name](http://www.codecademy.com/en/goals/animate-your-name) - Create an animation of your name <br />
+* [About You](http://www.codecademy.com/en/goals/web-beginner-en-3pc6w) - Make a website all about you <br />
+* [Sun, Earth, and Code](http://www.codecademy.com/en/goals/web-beginner-en-ymqg0) - Build your own galaxy <br />
 
 ## Web Application Skills
 
-[Make a Website](http://www.codecademy.com/en/skills/make-a-website) - Build a recent version of Airbnb's home page and learn the fundamentals of web development in the process.<br />
-[Make an Interactive Website](http://www.codecademy.com/en/skills/make-an-interactive-website) - Build the Flipboard home page and learn how to add interactivity to your website.<br />
-[Make a Rails Application I](http://www.codecademy.com/en/learn/make-a-rails-app) - Build the Etsy site using Ruby on Rails and learn the essentials of database-backed web applications.<br />
-[Learn AngularJS](http://www.codecademy.com/en/learn/learn-angularjs) - Learn to build web apps using AngularJS 1.x. By the end of the course, you'll be able to use AngularJS to create your own apps.<br />
+* [Make a Website](http://www.codecademy.com/en/skills/make-a-website) - Build a recent version of Airbnb's home page and learn the fundamentals of web development in the process.<br />
+* [Make an Interactive Website](http://www.codecademy.com/en/skills/make-an-interactive-website) - Build the Flipboard home page and learn how to add interactivity to your website.<br />
+* [Make a Rails Application I](http://www.codecademy.com/en/learn/make-a-rails-app) - Build the Etsy site using Ruby on Rails and learn the essentials of database-backed web applications.<br />
+* [Learn AngularJS](http://www.codecademy.com/en/learn/learn-angularjs) - Learn to build web apps using AngularJS 1.x. By the end of the course, you'll be able to use AngularJS to create your own apps.<br />
 
 ## APIs
 

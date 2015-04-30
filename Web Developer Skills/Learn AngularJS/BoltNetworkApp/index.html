@@ -1,0 +1,83 @@
+s<!doctype html>
+<html>
+  <head>
+    <link href="https://s3.amazonaws.com/codecademy-content/projects/bootstrap.min.css" rel="stylesheet" />
+    <link href='https://fonts.googleapis.com/css?family=Oxygen:300,400,700' rel='stylesheet' type='text/css'>
+      <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href="css/main.css" rel="stylesheet" />
+    <script src="js/vendor/angular.min.js"></script>
+  </head>
+  <body ng-app="BoltNetworkApp">
+    <div class="header">
+      <div class="container">
+        <img src="img/logo.svg" width="180" height="34">
+      </div>
+    </div>
+
+    <div class="main" ng-controller="MainController">
+      <div class="container">
+        <div class="content">
+          <div class="row">
+
+           <div class="col-md-3" class="series_img">                                                                                            <img ng-src="{{program.series_img}}">
+            </div>
+
+            <div class="col-md-6">
+              <h1 class="series">{{program.series}}</h1>
+              <h2 class="episode">{{program.episode}}</h2>
+              <p class="description">{{program.description}}</p>
+            </div>
+
+            <div class="col-md-3">
+              <ul class="list-group">
+                <li class="list-group-item"><span>Date: {{program.datetime | date}}</span>  </li>
+                <li class="list-group-item"><span>On air:</span>  </li>
+                <li class="list-group-item"><span>Time:</span>  </li>
+                <li class="list-group-item"><span>Season: {{program.season}}</span>  </li>
+                <li class="list-group-item"><span>Genre: {{program.genre}}</span>  </li>
+              </ul>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3">
+            <h3>Bolt</h3>
+            <ul>
+              <li>Careers</li>
+              <li>Terms</li>
+              <li>Help</li>
+            </ul>
+          </div>
+          <div class="col-md-3">
+            <h3>More Bolt</h3>
+            <ul>
+              <li>Gift Cards</li>
+              <li>Trailers</li>
+            </ul>
+          </div>
+          <div class="col-md-3">
+            <h3>News</h3>
+            <ul>
+              <li>Blog</li>
+              <li>Twitter</li>
+              <li>YouTube</li>
+              <li>Google+</li>
+              <li>Facebook</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+    <!-- Modules -->
+    <script src="js/app.js"></script>
+
+    <!-- Controllers -->
+    <script src="js/controllers/MainController.js"></script>
+  </body>
+</html>

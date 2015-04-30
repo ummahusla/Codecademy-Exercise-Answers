@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+  <head>
+    <link href="https://s3.amazonaws.com/codecademy-content/projects/bootstrap.min.css" rel="stylesheet" />
+    <link href='https://fonts.googleapis.com/css?family=Oswald:400,700' rel='stylesheet' type='text/css'>
+    <link href="css/main.css" rel="stylesheet" />
+    <script src="js/vendor/angular.min.js"></script>
+  </head>
+  <body ng-app="MoveLogApp">
+    <div class="header">
+      <div class="container">
+        MOVE Log
+      </div>
+    </div>
+
+    <div class="main" ng-controller="MainController">
+      <div class="container" ng-repeat="exercise in exercises">
+        <div class="row">
+          <div class="exercise-icon col-xs-2">
+            <img ng-src="{{exercise.icon}}">
+          </div>
+
+          <div class="col-xs-6">
+            <p class="exercise-name">{{exercise.name}}</p>
+          </div>
+
+          <div class="col-xs-4 counters">
+            <span class="decrease" ng-click="decrease($index)">-</span><span class="count">{{exercise.count}}</span><span class="increase" ng-click="increase($index)">+</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer">
+      <div class="container">
+      </div>
+    </div>
+
+    <!-- Modules -->
+    <script src="js/app.js"></script>
+
+    <!-- Controllers -->
+    <script src="js/controllers/MainController.js"></script>
+
+  </body>
+</html>

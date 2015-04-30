@@ -1,0 +1,105 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #1f1f1f;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  max-width: 980px;
+}
+
+.container .row .col-sm-4 {
+  margin: 0 0 30px;
+}
+
+.col-xs-4 {
+  width: 37.5%;
+}
+
+.col-xs-4, .col-xs-3 {
+  padding: 0;
+}
+
+a,
+li,
+.share-menu span:hover {
+  color: #00ffbc;
+  cursor: pointer;
+}
+
+a:hover,
+li:hover {
+  color: #e2e2e2;
+  text-decoration: none;
+}
+
+
+/* Header */
+.header {
+  background: #000;
+  margin: 0 0 40px;
+}
+
+.header h1 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.5em;
+  margin: 0;
+  padding: 40px 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+/* Scorecard row */
+.scorecard,
+.more {
+  background: rgba(255,255,255,0.1);
+  border-bottom: 1px solid rgba(0,0,0,0.25);
+  border-top: 1px solid rgba(255,255,255,0.1);
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  margin: 0 1px 0;
+  padding: 10px 15px;
+}
+
+.scorecard p {
+  font-weight: 100;
+  text-align:center;
+  text-transform: uppercase;
+}
+
+.scorecard div h2 {
+  color: #00ffbc;
+  font-family: 'Oswald', sans-serif;
+  font-size: 60px;
+  margin: 0;
+}
+
+.scorecard .dash h2 {
+  color: #fff;
+  text-align: center;
+}
+
+.scorecard div h3 {
+  font-size: 18px;
+  font-weight: 100;
+  margin: 10px 0;
+}
+
+.scorecard .home {
+  text-align: right;
+}
+
+@media (max-width: 995px) {
+  .container {
+    width: 350px;
+  }
+
+  .col-sm-4 {
+    width: 100%;
+  }
+}

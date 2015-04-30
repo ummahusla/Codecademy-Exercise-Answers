@@ -1,0 +1,127 @@
+html, body {
+ margin: 0;
+ padding: 0;
+   height: 100%;
+}
+
+body {
+ font-family: Arial, serif;
+}
+
+.main {
+   margin:0;
+   height: 100%;
+}
+
+.container {
+   width:100%;
+   padding: 0;
+   margin: 0;
+}
+
+.main .container {
+   height: 100%;
+}
+
+.header {
+   position:fixed;
+   z-index: 30;
+}
+
+.header h1 {
+   color: #000;
+   font-size: 60px;
+   font-weight: bold;
+   text-align: left;
+   width:1%;
+   z-index: 30;
+   margin: 35px 50px;
+   line-height: 60px;
+   text-transform: lowercase;
+}
+
+.card {
+   background: -webkit-linear-gradient(top, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 100%);
+   background: -ms-linear-gradient(top, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 100%);
+   background: linear-gradient(to bottom, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 100%);
+   display: inline-block;
+   overflow: hidden;
+   position: relative;
+   width:25%;
+   margin:0;
+   min-height: 800px;
+   height: 100%;
+   border-right:1px solid #efefef ;
+}
+
+.card:last-child {
+   border: 0;
+}
+
+.icon {
+ position: absolute;
+   top:200px;
+   left: -9999px;
+   right: -9999px;
+   margin: auto;
+}
+
+.title {
+   color: #000;
+   font-size: 20px;
+   width: 100%;
+   font-weight: bold;
+   text-indent: 20px;
+   margin: 620px 0 4px 0;
+}
+
+.developer {
+   color: #afafaf ;
+   font-size: 14px;
+   width: 100%;
+   text-indent: 20px;
+}
+
+.price {
+ color: #000;
+ font-size: 14px;
+ font-weight: 700;
+     top: 525px;
+   right: 20px;
+   line-height: 60px;
+   width: 60px;
+   height: 60px;
+   position: absolute;
+   background: #fff;
+   border-bottom:5px solid #000;
+   text-align: center;
+}
+
+.main button {
+   background: transparent;
+   color: #000;
+   cursor: pointer;
+   border:none;
+ border: 1px solid #000;
+   font-size: 14px;
+   font-weight: 200;
+   margin: 40px 20px;
+   padding:2px 20px;
+   border-radius: 2px;
+}
+
+.main button:hover {
+   color: rgb(255,80,80);
+   background: rgba(255,80,80,0.25);
+   transition: background 500ms;
+   border: 1px solid rgb(255,80,80);
+}
+
+.main button:focus {
+ outline: 0;
+}
+
+.main button.btn-downloaded {
+ background-color: #ababab ;
+ color: #3f3f3f ;
+}

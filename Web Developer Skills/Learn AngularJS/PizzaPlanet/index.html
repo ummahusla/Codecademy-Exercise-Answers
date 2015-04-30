@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+  <head>
+    <link href="https://s3.amazonaws.com/codecademy-content/projects/bootstrap.min.css" rel="stylesheet" />
+    <link href='https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic,700italic|Oswald' rel='stylesheet' type='text/css'>
+    <link href="css/main.css" rel="stylesheet" />
+    <script src="js/vendor/angular.min.js"></script>
+  </head>
+  <body ng-app="PizzaPlanetApp">
+    <div class="header">
+      <h1><span>Pizza</span><span>Planet</span></h1>
+    </div>
+
+    <div class="main" ng-controller="MainController">
+      <div class="container">
+        <h1>Specials for {{ today | date }}</h1>
+
+        <h2>Appetizers</h2>
+        <div class="appetizers row" ng-repeat="appetizer in appetizers">
+          <div class="item col-md-9">
+            <h3 class="name">{{appetizer.name}}</h3>
+            <p class="description">{{appetizer.description}}</p>
+          </div>
+          <div class="price col-md-3">
+            <p class="price">{{appetizer.price | currency}}</p>
+          </div>
+        </div>
+
+        <div class="mains row" ng-repeat="main in mains">
+          <div class="item col-md-9">
+            <h3 class="name">{{main.name}}</h3>
+            <p class="description">{{main.description}}</p>
+          </div>
+          <div class="price col-md-3">
+            <p class="price">{{main.price | currency}}</p>
+          </div>
+        </div>
+
+        <div class="extras row" ng-repeat="extra in extras">
+          <div class="item col-md-9">
+            <h3 class="name">{{extra.name}}</h3>
+            <p class="description">{{extra.description}}</p>
+          </div>
+          <div class="price col-md-3">
+            <p class="price">{{extra.price | currency}}</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="footer">
+    </div>
+
+    <!-- Modules -->
+    <script src="js/app.js"></script>
+
+    <!-- Controllers -->
+    <script src="js/controllers/MainController.js"></script>
+  </body>
+</html>

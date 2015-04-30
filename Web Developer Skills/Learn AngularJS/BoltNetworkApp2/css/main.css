@@ -1,0 +1,84 @@
+html, body {
+    background: #000;
+    font-family:"Oxygen";
+    font-weight:300;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.header {
+    background: #000;
+}
+
+.header img {
+    margin: 40px 0;
+}
+
+.header ul {
+  list-style: none;
+}
+
+.header li {
+  display: inline;
+  margin-right: 30px;
+}
+
+.main {
+    background-image:url(/img/diagmonds_@2X.png);
+    background-size:141px 142px;
+    padding: 80px;
+}
+
+.main .series {
+    color:#0393ff;
+}
+
+.main .episode {
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    margin: 0 0 40px 0;
+    text-transform: uppercase;
+}
+
+.main .description {
+    color: #fff;
+}
+
+.main ul, .main img {
+    margin: 30px 0 0;
+}
+
+.main ul li {
+    background: rgba(0,0,0,0.5);
+    border: 1px solid #0393ff;
+    color: #fff;
+}
+
+.list-group-item span {
+    color:#0393ff;
+    padding:0 10px 0 0;
+}
+
+
+.footer {
+  background:#000;
+  padding:60px 0;
+}
+
+.footer h3 {
+  color:#fff;
+  font-size:18px;
+  font-weight:300;
+}
+
+.footer ul {
+  color:#0393ff;
+  list-style:none;
+  padding-left:0px;
+}

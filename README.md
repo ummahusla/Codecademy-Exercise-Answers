@@ -7,7 +7,7 @@
 * [Goals](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Goals) 
 * [Language Skills](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Language%20Skills) 
 * [Web Developer SKills](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Web%20Developer%20Skills) 
-* [Non-trackable Content / Archieve](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Non-Trackable%20Content) 
+* [Non-trackable Content / Archive](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Non-Trackable%20Content) 
 
 
 

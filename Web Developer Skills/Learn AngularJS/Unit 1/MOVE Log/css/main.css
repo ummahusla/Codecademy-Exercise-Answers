@@ -1,0 +1,75 @@
+body, html {
+    background: #1c1c1c;
+    font-family: "Oswald", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+span {
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+}
+
+.header {
+    background: #000;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+    color: #fff;
+    font-size: 36px;
+    padding: 20px 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.main {
+    margin: 40px 0;
+}
+
+.row {
+    background: #000;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+    height: 50px;
+    margin: 8px auto;
+    padding: 0;
+    width: 100%;
+}
+
+.row img {
+    height: 50px;
+    width: 50px;
+}
+.row p, .row span {
+    display: inline-block;
+    height: 50px;
+    line-height: 50px;
+    margin: 0;
+}
+
+.col-xs-6 p {
+    color: #fff;
+    font-size: 20px;
+}
+
+.counters {
+    text-align: center;
+}
+
+.counters span {
+    background: #ffa800;
+    font-size: 20px;
+    width: 40px;
+}
+
+.counters span.count {
+    background: #fff;
+}
+
+@media (max-width: 480px) {
+    .col-xs-6 {
+        width: 41%;
+    }
+    .col-xs-4 {
+        width: 42%;
+    }
+}

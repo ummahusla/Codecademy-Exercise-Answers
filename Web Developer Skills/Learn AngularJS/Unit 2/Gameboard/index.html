@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+  <head>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+    <link href="https://s3.amazonaws.com/codecademy-content/projects/bootstrap.min.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+
+    <script src="js/vendor/angular.min.js"></script>
+  </head>
+  <body ng-app="GameboardApp">
+    <div class="header">
+      <h1 class="logo">GameBoard</h1>
+    </div>
+
+    <div class="main" ng-controller="ScoreController">
+      <div class="container">
+
+        <div class="row">
+          <game ng-repeat="score in scores" info="score"></game>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Modules -->
+    <script src="js/app.js"></script>
+
+    <!-- Controllers -->
+    <script src="js/controllers/ScoreController.js"></script>
+
+    <!-- Directives -->
+    <script src="js/directives/game.js"></script>
+
+  </body>
+</html>

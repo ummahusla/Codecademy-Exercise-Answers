@@ -1,0 +1,136 @@
+body, html {
+    background: #f9f9f9;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+}
+
+.header {
+    background: #aa08ff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.header img {
+    margin: 20px auto;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.header ul {
+  list-style: none;
+}
+
+.header li {
+  display: inline;
+  margin-right: 30px;
+}
+
+.main {
+    margin: 40px 0;
+}
+
+.email {
+    background: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    font-size: 18px;
+    margin: 0 0 8px;
+    padding: 20px 0;
+}
+
+.email:hover {
+    background: #fcfcfc;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.2);
+    cursor: pointer;
+}
+
+.email span {
+    color: #000;
+    display: inline-block;
+    margin: 0;
+    overflow: hidden;
+    position: relative;
+    text-overflow: ellipsis;
+}
+
+a.back {
+    background: #ffbd1a;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    color: #fff;
+    display: block;
+    font-weight: bold;
+    margin: 0 0 20px;
+    padding: 14px 0;
+    text-align: center;
+    width: 200px;
+}
+
+a.back:hover {
+    background: #f7a500;
+    text-decoration: none;
+}
+
+.from {
+    font-size: 16px;
+    font-weight: 700;
+    padding-left: 2%;
+    width: 20%;
+}
+
+.subject {
+    width: 60%;
+}
+
+.date {
+    font-size: 14px;
+    padding-right: 2%;
+    text-align: right;
+    text-overflow: ellipsis;
+    width: 15%;
+}
+
+.email-view {
+    background: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    padding: 50px;
+}
+
+.email-view h2 {
+    font-size: 40px;
+    padding: 0;
+    margin: 0 0 10px;
+}
+
+.email-view .from {
+    display: inline-block;
+    padding: 0;
+    width: 50%;
+}
+
+.email-view .date {
+    display: inline-block;
+    padding: 0;
+    text-align: right;
+    width: 50%;
+}
+
+.email-view p {
+    font-size: 24px;
+    margin: 30px 0 0;
+}
+
+.footer {
+  background:#000;
+  padding:60px 0;
+}
+
+.footer h3 {
+  color:#fff;
+  font-size:18px;
+  font-weight:300;
+}
+
+.footer ul {
+  color:#0393ff;
+  list-style:none;
+  padding-left:0px;
+}

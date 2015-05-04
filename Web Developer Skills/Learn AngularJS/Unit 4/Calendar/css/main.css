@@ -1,0 +1,59 @@
+body, html {
+    background: #ff3b4e;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.container {
+    width: 75%;
+}
+
+.main {
+    margin: 0 auto 0;
+}
+
+.main h2 {
+    border-bottom: 1px solid #fff;
+    color: #fff;
+    font-size: 48px;
+    margin: 20px 0;
+    padding: 20px 0;
+}
+
+.event {
+    padding: 20px;
+    width: 100%;
+}
+
+.event:hover {
+    background: rgba(255,255,255,0.25);
+}
+
+.event h3 {
+    color: #fff;
+    font-size: 24px;
+    margin: 0;
+}
+
+.event p {
+    color: #fff;
+}
+
+.event:hover a {
+    text-decoration: none;
+}
+
+.event-detail p {
+    color: #fff;
+}
+
+p.time {
+    font-size: 20px;
+    font-weight: bold;
+}

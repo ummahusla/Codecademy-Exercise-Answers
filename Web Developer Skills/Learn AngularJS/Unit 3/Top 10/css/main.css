@@ -1,0 +1,95 @@
+body, html {
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header {
+    font-size: 200px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.main {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.main .container {
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+}
+
+.rank {
+    background: #ffcd2e;
+    color: #fff;
+    display: block;
+    float: left;
+    font-size: 200px;
+    height: 200px;
+    margin: 0;
+    padding: 30px;
+    width: 200px;
+}
+
+div.ng-scope {
+    color: #000;
+}
+
+.img_container {
+    display: block;
+    float: left;
+    height: 200px;
+    overflow: hidden;
+    width: 200px;
+}
+
+.img_container img.img-responsive {
+    display: block;
+    height: 100%;
+    max-width: 9999px;
+    position: relative;
+    width: auto;
+}
+
+h2 {
+    background: #ff2c5e;
+    color: #fff;
+    display: block;
+    float: left;
+    height: 200px;
+    margin: 0;
+    padding: 30px;
+    text-overflow: ellipsis;
+    width: 200px;
+}
+
+div.ng-scope:nth-child(odd) h2 {
+    width: 400px;
+}
+
+div.ng-scope:nth-child(even) p+p {
+    width: 400px;
+}
+
+p {
+    background: #f9f9f9;
+    display: block;
+    float: left;
+    font-size: 18px;
+    height: 200px;
+    margin: 0;
+    padding: 30px;
+    width: 200px;
+}
+
+div.ng-scope p+p {
+    background: #e5e5e5;
+}
+
+div.ng-scope p+p+p {
+    background: #000;
+    color: #fff;
+    font-size: 14px;
+    width: 800px;
+}

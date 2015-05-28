@@ -1,5 +1,6 @@
 Functions
 ##1.)
+```php
 <html>
   <p>
     <?php
@@ -9,7 +10,9 @@ Functions
     ?>
   </p>
 </html>
+```
 ##2.)
+```php
 <html>
   <p>
     <?php
@@ -35,7 +38,9 @@ Functions
     ?>
   </p>
 </html>
+```
 ##3.)
+```php
 <html>
     <p>
     <?php
@@ -56,7 +61,9 @@ Functions
     ?>
     </p>
 </html>
+```
 ##4.)
+```php
 <html>
     <p>
     <?php
@@ -75,7 +82,9 @@ Functions
     ?>
     </p>
 </html>
+```
 ##5.)
+```php
 <html>
     <p>
     <?php
@@ -92,7 +101,9 @@ Functions
     ?>
     </p>
 </html>
+```
 ##6.)
+```php
 <html>
     <p>
 	<?php
@@ -108,7 +119,9 @@ print count($fav_bands);
 	?>
 	</p>
 </html>
+```
 ##7.)
+```php
 <html>
     <p>
     <?php
@@ -127,7 +140,9 @@ print count($fav_bands);
     ?>
     </p>
 </html>
+```
 ##8.)
+```php
 <html>
     <p>
     <?php
@@ -161,3 +176,4 @@ print count($fav_bands);
 
 	</p>
 </html>
+```

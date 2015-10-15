@@ -1,4 +1,4 @@
-# Codecademy
+# [Codecademy](https://www.codecademy.com/)
 
 ![Codecademy Logo](http://s3.amazonaws.com/codecademy-blog/assets/logo_blue_dark.png "Codecademy Logo")
 

@@ -11,7 +11,7 @@
 
 
 
-## Language Skills
+## [Language Skills](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Language%20Skills)
 
 * [HTML & CSS](http://www.codecademy.com/en/tracks/web) - Learn how to create websites by structuring and styling your pages with HTML and CSS. 
 * [JavaScript](http://www.codecademy.com/en/tracks/javascript) - Learn the fundamentals of JavaScript, the programming language of the Web. 
@@ -20,26 +20,35 @@
 * [Python](http://www.codecademy.com/en/tracks/python) - Learn to program in Python, a powerful language used by sites like YouTube and Dropbox. <br />
 * [Ruby](http://www.codecademy.com/en/tracks/ruby) - Learn to program in Ruby, a ﬂexible language used to create sites like Codecademy.
 
-## Goals
+## [Goals](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Goals)
 
 * [Animate Your Name](http://www.codecademy.com/en/goals/animate-your-name) - Create an animation of your name <br />
 * [About You](http://www.codecademy.com/en/goals/web-beginner-en-3pc6w) - Make a website all about you <br />
 * [Sun, Earth, and Code](http://www.codecademy.com/en/goals/web-beginner-en-ymqg0) - Build your own galaxy <br />
 
-## Web Application Skills
+## [Web Application Skills](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Web%20Developer%20Skills)
 
 * [Make a Website](http://www.codecademy.com/en/skills/make-a-website) - Build a recent version of Airbnb's home page and learn the fundamentals of web development in the process.<br />
 * [Make an Interactive Website](http://www.codecademy.com/en/skills/make-an-interactive-website) - Build the Flipboard home page and learn how to add interactivity to your website.<br />
 * [Make a Rails Application I](http://www.codecademy.com/en/learn/make-a-rails-app) - Build the Etsy site using Ruby on Rails and learn the essentials of database-backed web applications.<br />
 * [Learn AngularJS](http://www.codecademy.com/en/learn/learn-angularjs) - Learn to build web apps using AngularJS 1.x. By the end of the course, you'll be able to use AngularJS to create your own apps.<br />
 
-## APIs
+## [APIs](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs)
 
-ToDo: Add list of APIs exercises with hyperlinks
-
-## Usage
-
-Codecademy Q&A Forum is not always the best place to look for the answers. That's why I've decided to create this repo, to everyone who is struggling with the answer. Help yourself 
+* [Apigee API (JavaScript)](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/Apigee%20API%20-%20JavaScript) - Learn how to use Apigee's API to store your app data in the cloud!
+* [WePay API (Ruby)](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/WePay%20API%20-%20Ruby) - Learn how to use the WePay API!
+* [WePay API (Python)](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/WePay%20API%20-%20Python) - Learn how to use the WePay API!
+* [YouTube API (JavaScript)](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/YouTube%20API%20-%20JavaScript) - Learn how to use the YouTube API!
+* [Box API (Ruby)](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/Box%20API%20-%20Ruby) - Learn how to use the Box API!
+* [GitHub API (Ruby)](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/GitHub%20API%20-%20Ruby) - Learn OAuth2 with the GitHub API!
+* [SoundCloud API (JavaScript)](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/SoundCloud%20API%20-%20JavaScript) - Learn how to use the SoundCloud API!
+* [Mandrill API (JavaScript)](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/Mandrill%20API%20-%20JavaScript) - Learn how to use the Mandrill API!
+* [NPR API (Python)](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/NPR%20API%20-%20Python) - Learn to use the NPR API.
+* [Dwolla API (Python)](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/Dwolla%20API%20-%20Python) - Learn how to use the Dwolla API!
+* [Evernote API (Ruby)](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/Evernote%20API%20-%20Ruby) - Learn how to use the Evernote API!
+* [NHTSA API (Python)](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/NHTSA%20API%20-%20Python) - Learn how to use Python and the National Highway Traffic Safety Administration's API!
+* [Twitter API (Ruby)](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/Twitter%20API%20-%20Ruby) - Learn how to use the Twitter API!
+* [SendGrid API (Ruby)](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/SendGrid%20API%20-%20Ruby) - Learn to use the SendGrid API.
 
 ## Contributing
 

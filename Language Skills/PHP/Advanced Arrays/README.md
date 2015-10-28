@@ -166,27 +166,21 @@ array('8 of Diamonds', 8));
   </head>
   <body>
     <p>
-    
-    
-    
-    
-    
     <?php
-$myArray = array('lettuce' => 'with',
-'tomato' => 'without',
-'onions' => 'with');
+    
+    $myArray = array('lettuce' => 'green',
+              'tomato' => 'red',
+              'onions' => 'yellow');
 
-  $length = count($food);
+    $length = count($myArray);
 
+    echo($myArray['lettuce']);
 
-  for ($i = 0; $i < $length; $i++) {
-    echo $food[$i] .;
-  }
+    foreach($myArray as $i) {
+      echo( $i );
+    }
 
-  echo 'I want my salad';
-
-
-  ?>
+    ?>
     </p>
   </body>
 </html>

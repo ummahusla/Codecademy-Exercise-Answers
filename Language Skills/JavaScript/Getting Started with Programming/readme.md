@@ -183,6 +183,6 @@ if(5===5)
 }
 else
 {
-    console.log("Brent's Mom has a PENIS!");
+    console.log("Impossible!");
 }
 ```

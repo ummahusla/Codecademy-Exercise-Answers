@@ -141,7 +141,7 @@ var bob = new Person("Bob Smith", 30);
 var susan = new Person("Susan Jordan", 35);
 
 // make your own class here
-function circle(radius) {
+function Circle(radius) {
     this.radius = radius;
 }
 ```

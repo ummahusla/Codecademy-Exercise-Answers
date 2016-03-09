@@ -76,7 +76,7 @@ Big thanks to all contributors.
 
 The MIT License (MIT)
 
-Copyright (c) 2014 - 2015 Edvins Antonovs
+Copyright (c) 2014 - 2016 Edvins Antonovs
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

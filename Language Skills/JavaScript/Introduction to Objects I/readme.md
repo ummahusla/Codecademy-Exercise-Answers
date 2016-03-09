@@ -60,7 +60,10 @@ var bob = new Object()
 ```
 ##7. Properties
 ```script.js
-var bob = new Object()
+var me = {
+  age: 22,
+  country: "United States"
+};
 ```
 ##8. Accessing Properties
 ```script.js

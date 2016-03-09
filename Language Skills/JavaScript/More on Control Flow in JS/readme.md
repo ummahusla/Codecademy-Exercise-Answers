@@ -88,7 +88,8 @@ switch(candy) {
 }
 ```
 ##7. More practice with switch
-```scvar answer = prompt("How are you feeling","Insert Feels Here");
+```script.js
+scvar answer = prompt("How are you feeling","Insert Feels Here");
 
 switch(answer) {
   case 'Happy':
@@ -107,7 +108,7 @@ switch(answer) {
 ```
 ##8. All on your own
 ```script.js
-var answer = prompt("What color is #TheDress?);
+var answer = prompt("What color is #TheDress?");
 switch(answer) {
     case 'Blue and Black':
         console.log("Yeah!");
@@ -125,7 +126,7 @@ switch(answer) {
 ```
 ##9. Mid-lesson breather
 ```script.js
-var answer = prompt("What color is #TheDress?);
+var answer = prompt("What color is #TheDress?");
 switch(answer) {
     case 'Blue and Black':
         console.log("Yeah!");

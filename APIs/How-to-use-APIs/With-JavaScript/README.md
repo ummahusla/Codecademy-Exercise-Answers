@@ -155,7 +155,7 @@ var answer3 = 500
 ```javascript
 // Add your code below this line!
 var xhr = new XMLHttpRequest();
-xhr.open("GET", "http://www.codecademy.com/", false);
+xhr.open("GET", "https://www.codecademy.com/", false);
 
 // Add your code above this line!
 

@@ -101,7 +101,8 @@ do {
 } while (loopCondition);
 ```
 ##10. To learn it, you gotta 'do' it
-```
+
+```js
 var count = 1;
 var getToDaChoppa = function(){
 do{

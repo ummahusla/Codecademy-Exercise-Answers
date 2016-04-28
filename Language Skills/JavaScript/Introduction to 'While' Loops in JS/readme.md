@@ -1,5 +1,5 @@
 ##1. While we're at it
-```script.js
+```js
 var coinFace = Math.floor(Math.random() * 2);
 
 while(coinFace === 0){
@@ -8,8 +8,10 @@ while(coinFace === 0){
 }
 console.log("Tails! Done flipping.");
 ```
+
 ##2. While syntax
-```
+
+```js
 var understand = true;
 
 while(understand === true){
@@ -17,6 +19,7 @@ while(understand === true){
 	understand = false;
 }
 ```
+
 ##3. A fellow of infinite loops
 ```
 understand = true;
@@ -26,16 +29,20 @@ while(understand){
 	understand = false;
 }
 ```
+
 ##4. Brevity is the soul of programming
-```
+
+```js
 var bool = true;
 while(bool){
     console.log("Less is more!");
     bool = false;
 }
 ```
+
 ##5. Practice makes perfect
-```
+
+```js
 var loop = function(){
 var count = 0;
 	while(count < 3){
@@ -45,8 +52,10 @@ var count = 0;
 };
 loop();
 ```
+
 ##6. Solo flight
-```
+
+```js
 var swag = true;
 var soloLoop = function(){
   while(swag === true) {
@@ -57,12 +66,16 @@ var soloLoop = function(){
 
 soloLoop();
 ```
+
 ##7. Mid-lesson Breather
+
 ```
 //No code necessary
 ```
+
 ##8. When to 'while' and when to 'for'
-```
+
+```js
 var count = 1;
 
 while(count < 10) {
@@ -76,8 +89,10 @@ for(;count < 10;) {
    console.log("The count is " + count);
 }
 ```
+
 ##9. The 'do'/'while' loop
-```
+
+```js
 var loopCondition = false;
 
 do {
@@ -96,8 +111,10 @@ do{
 
 getToDaChoppa();
 ```
+
 ##11. Review
-```
+
+```js
 for(var count = 1; count<2;count++) {
     console.log("Hello, world!")
 }

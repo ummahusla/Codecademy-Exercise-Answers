@@ -1,5 +1,6 @@
 ##1. What You'll be Building
-```script.js
+
+```js
 /*jshint multistr:true */
 
 text = "Blah blah blah blah blah blah Eric \
@@ -26,8 +27,10 @@ if (hits.length === 0) {
 	console.log(hits);
 }
 ```
+
 ##2. Declare your variables
-```script.js
+
+```js
 /*jshint multistr:true */
 var text = "Lorem ipsum dolor sit amet, John consectetur adipiscing elit. Praesent quis dictum nulla. Nullam condimentum lacinia turpis a semper.";
 var myName = "John";
@@ -45,8 +48,10 @@ for(var i =0;i <= text.length; i++)
         
 }
 ```
+
 ##4. Your "if" statement
-```script.js
+
+```js
 /*jshint multistr:true */
 var text = "Lorem ipsum dolor sit amet, John consectetur adipiscing elit. Praesent quis dictum nulla. Nullam condimentum lacinia turpis a semper.";
 var myName = "John";
@@ -60,8 +65,10 @@ for(var i =0;i <= text.length; i++)
     }
 }
 ```
+
 ##5. Your second "for" loop
-```script.js
+
+```js
 /*jshint multistr:true */
  
 var text = "Stewart containing some text for Stewart written and developed by Stewart";
@@ -91,8 +98,10 @@ else {
     console.log(hits);
 }
 ```
+
 ##6. Log it!
-```script.js
+
+```js
 /*jshint multistr:true */
  
 var text = "Stewart containing some text for Stewart written and developed by Stewart";
@@ -122,8 +131,10 @@ else {
     console.log(hits);
 }
 ```
+
 ##7. Victory!
-```script.js
+
+```js
 /*jshint multistr:true */
  
 var text = "Stewart containing some text for Stewart written and developed by Stewart";

@@ -21,7 +21,8 @@ while(understand === true){
 ```
 
 ##3. A fellow of infinite loops
-```
+
+```js
 understand = true;
 
 while(understand){

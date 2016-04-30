@@ -66,7 +66,7 @@
 
 ## Requests, Improvements, Issues
 
-If you found a mistake, or want improvemenents are needed feel free to submit [a new issue](https://github.com/ummahusla/codecademy-exercise-answers/issues) with an appropriate label
+If you found a mistake, or want improvemenents are needed feel free to submit [**a new issue**](https://github.com/ummahusla/codecademy-exercise-answers/issues).
 
 ## Credits
 

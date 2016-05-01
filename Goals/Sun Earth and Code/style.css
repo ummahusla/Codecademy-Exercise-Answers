@@ -70,7 +70,7 @@ html, body {
 
     border-width: 2px;
     border-style: dotted;
-    border-color: black;
+    border-color: white;
     border-radius: 50%;
     
     -webkit-animation: spin-right 10s linear infinite;

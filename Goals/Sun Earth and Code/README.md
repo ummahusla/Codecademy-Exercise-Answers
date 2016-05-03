@@ -1,11 +1,109 @@
-## Contributing
+# [Sun, Earth and Code](https://www.codecademy.com/courses/web-beginner-en-ymqg0/0/1)
 
-This exercise answer is currently not available. If you already finished this task and you want to share your answer. Please follow these steps: 
+### HTML
 
-1. Fork it!
-2. Edit
-3. Commit.
-4. Push.
-5. Submit a pull request :D
+```html
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    
+    <body>
+        <!-- Right below is an image of the sun -->
+        <img id="sun" src="http://goo.gl/PmbqZa">
+        
+        <!-- Insert the 'earth' on the next line -->
+        <div id='earth-orbit'>
+        <img id="earth" src="http://goo.gl/41IWnf">
+        </div>
+    </body>
+</html>
+```
 
-Thank for participating!
+___
+
+### CSS
+
+```css
+html, body {
+    /* The universe takes up all available space */
+    width: 100%;
+    height: 100%;
+    
+    /* The universe is black */
+    background-color: black;
+}
+
+#sun {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    height: 200px;
+    width: 200px;
+    margin-top: -100px; 
+    margin-left: -100px;
+
+    border-color: orange;
+    border-width: 8px;
+    border-style: solid;
+    border-radius: 50%;
+
+    box-shadow: 0 0 128px red;
+}
+
+
+#earth {
+    
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    
+    height: 50px;
+    width: 50px;
+    margin-left: -25px;
+    margin-top: -25px;
+}
+
+@-webkit-keyframes spin-right {
+  100% {
+    -webkit-transform: rotate(360deg);
+       -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+         -o-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+@keyframes spin-right {
+  100% {
+    -webkit-transform: rotate(360deg);
+       -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+         -o-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+#earth-orbit {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    width: 500px;
+    height: 500px;
+    margin-top: -250px;
+    margin-left: -250px;
+
+    border-width: 2px;
+    border-style: dotted;
+    border-color: white;
+    border-radius: 50%;
+    
+    -webkit-animation: spin-right 10s linear infinite;
+     -moz-animation: spin-right 10s linear infinite;
+      -ms-animation: spin-right 10s linear infinite;
+       -o-animation: spin-right 10s linear infinite;
+          animation: spin-right 10s linear infinite;
+}
+```

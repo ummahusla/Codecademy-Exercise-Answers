@@ -1,0 +1,1 @@
+2.times { print "Ruby" }

@@ -34,11 +34,16 @@
 * [Learn Ruby on Rails](https://www.codecademy.com/learn/learn-rails) - Learn to build web apps with Ruby on Rails 4. By the end of the course, you'll be able to use Ruby on Rails to create your own apps.<br />
 * [Ruby on Rails: Authentication](https://www.codecademy.com/learn/rails-auth) - Learn how to add sign up, log in, and log out functionality to your Rails apps, as well as how to manage access to specific pages.<br />
 * [Learn AngularJS](http://www.codecademy.com/en/learn/learn-angularjs) - Learn to build web apps using AngularJS 1.x. By the end of the course, you'll be able to use AngularJS to create your own apps.<br />
-* [Learn SQL](https://www.codecademy.com/learn/learn-sql) - Learn to manage data with SQL. You'll master complex commands to manipulate and query data stored in relational databases.<br />
-* [SQL: Analyzing Business Metrics](https://www.codecademy.com/learn/sql-analyzing-business-metrics) - Learn the basics of SQL data analysis to explore dips and spikes in data and build business metrics.<br />
 * [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) - Learn how to use the command line to manipulate data and automate tasks.<br />
 * [Learn Java](https://www.codecademy.com/learn/learn-java) - Learn the fundamentals of the Java programming language.<br />
+* [Learn SASS](https://www.codecademy.com/learn/learn-sass) - Expand your CSS knowledge by learning SCSS syntax, nesting, functions, and more in this course on the Sass styling language.<br />
 * [Learn Git](https://www.codecademy.com/learn/learn-git) - Create and explore a simple Git-managed project<br />
+* [Learn SQL](https://www.codecademy.com/learn/learn-sql) - Learn to manage data with SQL. You'll master complex commands to manipulate and query data stored in relational databases.<br />
+* [SQL: Analyzing Business Metrics](https://www.codecademy.com/learn/sql-analyzing-business-metrics) - Learn the basics of SQL data analysis to explore dips and spikes in data and build business metrics.<br />
+* [SQL: Table Transformation](https://www.codecademy.com/learn/sql-table-transformation) - Practice more SQL in this course that covers how to manipulate and transform data.<br />
+* [Deploy a Website](https://www.codecademy.com/learn/deploy-a-website) - Learn how to publish a personal website to the public Internet.<br />
+
+
 
 ## [APIs](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs)
 

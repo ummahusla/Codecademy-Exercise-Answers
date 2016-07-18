@@ -4,15 +4,15 @@
 
 
 ## Structure
-* [**APIs**](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs) 
-* [**Goals**](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Goals) 
-* [**Language Skills**](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Language%20Skills) 
-* [**Web Developer SKills**](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Web%20Developer%20Skills) 
-* [**Non-trackable Content / Archive**](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Non-Trackable%20Content) 
+* [**APIs**](APIs) 
+* [**Goals**](Goals) 
+* [**Language Skills**](Language%20Skills) 
+* [**Web Developer SKills**](Web%20Developer%20Skills) 
+* [**Non-trackable Content / Archive**](Non-Trackable%20Content) 
 
 
 
-## [Language Skills](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Language%20Skills)
+## [Language Skills](Language%20Skills)
 
 * [**HTML & CSS**](http://www.codecademy.com/en/tracks/web) - Learn how to create websites by structuring and styling your pages with HTML and CSS. 
 * [**JavaScript**](http://www.codecademy.com/en/tracks/javascript) - Learn the fundamentals of JavaScript, the programming language of the Web. 
@@ -21,7 +21,7 @@
 * [**Python**](http://www.codecademy.com/en/tracks/python) - Learn to program in Python, a powerful language used by sites like YouTube and Dropbox. <br />
 * [**Ruby**](http://www.codecademy.com/en/tracks/ruby) - Learn to program in Ruby, a ﬂexible language used to create sites like Codecademy.
 
-## [Goals](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Goals)
+## [Goals](Goals)
 
 * [**Animate Your Name**](http://www.codecademy.com/en/goals/animate-your-name) - Create an animation of your name <br />
 * [**About You**](http://www.codecademy.com/en/goals/web-beginner-en-3pc6w) - Make a website all about you <br />
@@ -45,7 +45,7 @@
 
 
 
-## [APIs](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs)
+## [APIs](APIs)
 
 * [**Apigee API (JavaScript)**](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/Apigee%20API%20-%20JavaScript) - Learn how to use Apigee's API to store your app data in the cloud!
 * [**WePay API (Ruby)**](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/WePay%20API%20-%20Ruby) - Learn how to use the WePay API!

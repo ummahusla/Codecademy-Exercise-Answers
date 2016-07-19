@@ -47,20 +47,12 @@
 
 ## [APIs](APIs)
 
-* [**Apigee API (JavaScript)**](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/Apigee%20API%20-%20JavaScript) - Learn how to use Apigee's API to store your app data in the cloud!
-* [**WePay API (Ruby)**](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/WePay%20API%20-%20Ruby) - Learn how to use the WePay API!
-* [**WePay API (Python)**](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/WePay%20API%20-%20Python) - Learn how to use the WePay API!
-* [**YouTube API (JavaScript)**](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/YouTube%20API%20-%20JavaScript) - Learn how to use the YouTube API!
-* [**Box API (Ruby)**](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/Box%20API%20-%20Ruby) - Learn how to use the Box API!
-* [**GitHub API (Ruby)**](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/GitHub%20API%20-%20Ruby) - Learn OAuth2 with the GitHub API!
-* [**SoundCloud API (JavaScript)**](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/SoundCloud%20API%20-%20JavaScript) - Learn how to use the SoundCloud API!
-* [**Mandrill API (JavaScript)**](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/Mandrill%20API%20-%20JavaScript) - Learn how to use the Mandrill API!
-* [**NPR API (Python)**](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/NPR%20API%20-%20Python) - Learn to use the NPR API.
-* [**Dwolla API (Python)**](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/Dwolla%20API%20-%20Python) - Learn how to use the Dwolla API!
-* [**Evernote API (Ruby)**](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/Evernote%20API%20-%20Ruby) - Learn how to use the Evernote API!
-* [**NHTSA API (Python)**](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/NHTSA%20API%20-%20Python) - Learn how to use Python and the National Highway Traffic Safety Administration's API!
-* [**Twitter API (Ruby)**](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/Twitter%20API%20-%20Ruby) - Learn how to use the Twitter API!
-* [**SendGrid API (Ruby)**](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/APIs/SendGrid%20API%20-%20Ruby) - Learn to use the SendGrid API.
+Learn how to use popular APIs to make your own applications.
+
+* [**How to use APis**](/APIs/How%20to%20use%20APIs)
+* [**JavaScript APIs**](/APIs/JavaScript%20APis)
+* [**Python APIs**](/APIs/Python%20APIs)
+* [**Ruby APIs**](/APIs/Ruby%20APIs)
 
 ## Contributing
 

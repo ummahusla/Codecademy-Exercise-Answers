@@ -67,7 +67,7 @@ If you found a mistake, or want improvemenents are needed feel free to submit [*
 
 ## Credits
 
-Big thanks to all contributors.
+Big thanks to all [**contributors**](https://github.com/ummahusla/Codecademy-Exercise-Answers/graphs/contributors).
 
 ## License
 

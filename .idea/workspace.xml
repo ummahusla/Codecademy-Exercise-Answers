@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="626d940e-587e-4433-8113-344e1e2d3432" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Web Developer Skills/Make a Website/Unit 1/README.md" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Developer Skills/Make a Website/Unit 2/README.md" afterPath="$PROJECT_DIR$/Web Developer Skills/Make a Website/Unit 4 Building with Bootstrap/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Developer Skills/Make a Website/Unit 3/README.md" afterPath="$PROJECT_DIR$/Web Developer Skills/Make a Website/Unit 3 Boundaries and Space/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Developer Skills/Make a Website/Unit 4/README.md" afterPath="$PROJECT_DIR$/Web Developer Skills/Make a Website/Unit 2 A Closer Look at CSS/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Web Developer Skills/Make a Website/Unit 5/README.md" afterPath="$PROJECT_DIR$/Web Developer Skills/Make a Website/Unit 1 Site Structure/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Developer Skills/Make a Website/README.md" afterPath="$PROJECT_DIR$/Web Developer Skills/Make a Website/README.md" />
     </list>
     <ignored path="Codecademy-Exercise-Answers.iws" />
@@ -28,7 +23,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Web Developer Skills/Make a Website/Unit 4 Building with Bootstrap/README.md">
           <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
@@ -44,6 +39,22 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Web Developer Skills/Make a Website/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="48">
+                <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -53,10 +64,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Web Developer Skills/Make a Website/Unit 1 Site Structure/README.md" />
-        <option value="$PROJECT_DIR$/Web Developer Skills/Make a Website/README.md" />
         <option value="$PROJECT_DIR$/Web Developer Skills/Make a Website/Unit 2 A Closer Look at CSS/README.md" />
         <option value="$PROJECT_DIR$/Web Developer Skills/Make a Website/Unit 3 Boundaries and Space/README.md" />
         <option value="$PROJECT_DIR$/Web Developer Skills/Make a Website/Unit 4 Building with Bootstrap/README.md" />
+        <option value="$PROJECT_DIR$/Web Developer Skills/Make a Website/README.md" />
       </list>
     </option>
   </component>
@@ -205,11 +216,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Make a Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Unit 1 Site Structure" />
+              <option name="myItemId" value="Learn the Command Line" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -290,12 +297,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1473086903599</updated>
-      <workItem from="1473086906012" duration="10679000" />
+      <workItem from="1473086906012" duration="10841000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10679000" />
+    <option name="totallyTimeSpent" value="10841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="560" y="121" width="1301" height="860" extended-state="0" />
@@ -340,20 +347,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="96">
             <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web Developer Skills/Make a Website/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="16">
-            <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
             <folding />
           </first_editor>
           <second_editor />
@@ -416,6 +409,34 @@
         </state>
       </provider>
       <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web Developer Skills/Learn the Command Line/README.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web Developer Skills/Make a Website/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="48">
+            <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
     </entry>

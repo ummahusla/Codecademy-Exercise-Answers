@@ -29,7 +29,7 @@
 
 ## [Web Application Skills](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Web%20Developer%20Skills)
 
-* [**Make a Website**](http://www.codecademy.com/en/skills/make-a-website) - Build a recent version of Airbnb's home page and learn the fundamentals of web development in the process.<br />
+* [**Make a Website**](http://www.codecademy.com/en/skills/make-a-website) - Explore HTML & CSS fundamentals as you build a website in this introductory course to web development.<br />
 * [**Make an Interactive Website**](http://www.codecademy.com/en/skills/make-an-interactive-website) - Build the Flipboard home page and learn how to add interactivity to your website.<br />
 * [**Learn Ruby on Rails**](https://www.codecademy.com/learn/learn-rails) - Learn to build web apps with Ruby on Rails 4. By the end of the course, you'll be able to use Ruby on Rails to create your own apps.<br />
 * [**Ruby on Rails: Authentication**](https://www.codecademy.com/learn/rails-auth) - Learn how to add sign up, log in, and log out functionality to your Rails apps, as well as how to manage access to specific pages.<br />

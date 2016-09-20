@@ -9,4 +9,4 @@ if len(original) > 0 and original.isalpha():
     new_word = word + first + pyg
     print pyg
 else:
-    print 'empty
+    print 'empty'

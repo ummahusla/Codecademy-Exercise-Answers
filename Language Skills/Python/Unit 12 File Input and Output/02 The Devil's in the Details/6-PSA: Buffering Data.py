@@ -8,3 +8,5 @@ write_file.write("Not closing files is VERY BAD.")
 
 # Try to read from the file
 print read_file.read()
+write_file.close()
+read_file.close()

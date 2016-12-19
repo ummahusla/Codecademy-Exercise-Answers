@@ -160,14 +160,14 @@
 ```html
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Changing the colors!</title>
-	</head>
-	<body>
-		<h1 style="color: green; font-size:16px">Big Heading</h1>
-			<p style="color: violet;">A giant bear and a little duck were friends.</p>
-			<p style="color: red; font-size:8px">But the bear got hungry and ate the duck.</p>
-	</body>
+    <head>
+        <title>Changing the colors!</title>
+    </head>
+    <body>
+        <h1 style="color: green; font-size:16px">Big Heading</h1>
+            <p style="color: violet;">A giant bear and a little duck were friends.</p>
+            <p style="color: red; font-size:10px">But the bear got hungry and ate the duck.</p>
+    </body>
 </html>
 ```
 
@@ -175,17 +175,17 @@
 ```html
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Loving the font changes</title>
-	</head>
-	<body>
-		<h1>Big title</h1>
-		 <ol>
-		 	<li style="font-family:Garamond; font-size:16px">This item is big Garamond.</li>
-		 	<li style="font-family:Bodoni; font-size:12px">This item is medium Bodoni.</li>
-		 	<li style="font-family:Futura; font-size:8px">This item is small Futura</li>
-		 </ol>
-	</body>
+    <head>
+        <title>Loving the font changes</title>
+    </head>
+    <body>
+        <h1>Big title</h1>
+         <ol>
+            <li style="font-family:Arial; font-size:16px">This item is big Garamond.</li>
+            <li style="font-family:Verdana; font-size:12px">This item is medium Bodoni.</li>
+            <li style="font-family:Impact; font-size:10px">This item is small Futura</li>
+         </ol>
+    </body>
 </html>
 ```
 
@@ -193,12 +193,12 @@
 ```html
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Putting it all together</title>
-	</head>
-	<body>
-		<p style="font-size: 20px; color: blue; font-family:Garamond;">A truly spectacular paragraph!</p>
-	</body>
+    <head>
+        <title>Putting it all together</title>
+    </head>
+    <body>
+        <p style="font-size: 20px; color: blue; font-family:Arial;">A truly spectacular paragraph!</p>
+    </body>
 </html>
 ```
 
@@ -242,13 +242,13 @@
 ```html
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Viva La Revolution!</title>
-	</head>
-	<body>
-		<p><strong>Do you hear the people sing?</strong></p>
-		<p><strong>No I don't. I'm too busy eating cake.</strong></p>
-	</body>
+    <head>
+        <title>Viva La Revolution!</title>
+    </head>
+    <body>
+        <p><strong>sing</strong></p>
+        <p><strong>too</strong></p>
+    </body>
 </html>
 ```
 

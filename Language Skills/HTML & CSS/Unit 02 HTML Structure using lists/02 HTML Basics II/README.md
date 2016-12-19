@@ -149,9 +149,9 @@
 		<title>First font size change</title>
 	</head>
 	<body>
-		<p style = "font-size: 8px"> Some text for you to make tiny! </p>
-		<p style = "font-size: 12px"> Some text for you to make normal size!</p>
-		<p style = "font-size: 44px"> Some text for you to make super big!</p>
+		<p style = "font-size: 10px"> Some text for you to make tiny! </p>
+		<p style = "font-size: 20px"> Some text for you to make normal size!</p>
+		<p style = "font-size: 40px"> Some text for you to make super big!</p>
 	</body>
 </html>
 ```

@@ -1,0 +1,1 @@
+pets = Hash.new

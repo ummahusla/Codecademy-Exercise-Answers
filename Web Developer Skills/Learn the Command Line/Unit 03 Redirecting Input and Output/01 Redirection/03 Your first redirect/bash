@@ -1,0 +1,22 @@
+$ ls -l
+total 44
+-rw-r--r-- 1 ccuser ccuser  69 Jul 17  2015 continents.txt
+-rw-r--r-- 1 ccuser ccuser 135 Jul 17  2015 deserts.txt
+-rw-r--r-- 1 ccuser ccuser 223 Jul 17  2015 forests.txt
+-rw-r--r-- 1 ccuser ccuser 179 Jul 17  2015 glaciers.txt
+-rw-r--r-- 1 ccuser ccuser   6 Dec 27 17:28 hello.txt
+-rw-r--r-- 1 ccuser ccuser 191 Jul 17  2015 islands.txt
+-rw-r--r-- 1 ccuser ccuser 140 Jul 17  2015 lakes.txt
+-rw-r--r-- 1 ccuser ccuser 248 Jul 17  2015 mountains.txt
+-rw-r--r-- 1 ccuser ccuser  71 Jul 17  2015 oceans.txt
+-rw-r--r-- 1 ccuser ccuser 164 Jul 17  2015 rivers.txt
+-rw-r--r-- 1 ccuser ccuser 204 Jul 17  2015 volcanoes.txt
+$ cat oceans.txt > continents.txt
+$ cat continents.txt
+Arctic Ocean
+Atlantic Ocean
+Indian Ocean
+Pacific Ocean
+Southern Ocean
+
+$  

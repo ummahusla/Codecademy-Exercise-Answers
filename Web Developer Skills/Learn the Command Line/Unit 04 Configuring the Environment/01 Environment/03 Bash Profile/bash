@@ -1,0 +1,6 @@
+$ vim ~/.bash_profile
+$ source ~/.bash_profile
+Welcome, Jane Doe
+$ pd
+/home/ccuser/workspace/music
+$  

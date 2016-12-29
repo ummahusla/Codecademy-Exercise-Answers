@@ -1,0 +1,6 @@
+$ vim ~/.bash_profile
+$ source ~/.bash_profile
+Welcome, Jane Doe
+$ echo $USER
+Random User
+$

@@ -1,0 +1,11 @@
+$ grep -R Arctic /home/ccuser/workspace/geography
+/home/ccuser/workspace/geography/deserts.txt:Arctic Desert
+/home/ccuser/workspace/geography/oceans.txt:Arctic Ocean
+/home/ccuser/workspace/geography/uniq-deserts.txt:Arctic Desert
+/home/ccuser/workspace/geography/continents.txt:Arctic Ocean
+$ grep -Rl Arctic /home/ccuser/workspace/geography
+/home/ccuser/workspace/geography/deserts.txt
+/home/ccuser/workspace/geography/oceans.txt
+/home/ccuser/workspace/geography/uniq-deserts.txt
+/home/ccuser/workspace/geography/continents.txt
+$   

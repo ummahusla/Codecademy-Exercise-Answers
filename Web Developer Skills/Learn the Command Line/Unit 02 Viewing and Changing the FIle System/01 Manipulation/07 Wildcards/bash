@@ -1,0 +1,8 @@
+$ cd ../
+$ mv superman.txt superhero/
+$ cd superhero/
+$ ls
+$ cd ..
+$ mv wonderwoman.txt batman.txt superhero/
+$ cd superhero/
+$ ls

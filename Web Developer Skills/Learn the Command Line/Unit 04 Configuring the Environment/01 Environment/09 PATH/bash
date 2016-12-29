@@ -1,0 +1,17 @@
+>> env
+GEM_HOME=/home/ccuser/.gem/ruby/2.0.0
+TERM=linux
+LC_ALL=C.UTF-8
+USER=Random User
+PATH=/home/ccuser/.bin:/home/ccuser/.gem/ruby/2.0.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin
+PWD=/home/ccuser/workspace/music
+LANG=C.UTF-8
+PS1=>>
+HOME=/home/ccuser
+SHLVL=1
+UPSTART_INSTANCE=
+UPSTART_JOB=godex
+_=/usr/bin/env
+>> env | grep PATH
+PATH=/home/ccuser/.bin:/home/ccuser/.gem/ruby/2.0.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin
+>>  

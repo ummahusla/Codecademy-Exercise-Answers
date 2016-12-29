@@ -1,0 +1,5 @@
+$ ls
+action  comedy  drama  genres.txt
+$ ls -a
+.  ..  .preferences  action  comedy  drama  genres.txt
+$    

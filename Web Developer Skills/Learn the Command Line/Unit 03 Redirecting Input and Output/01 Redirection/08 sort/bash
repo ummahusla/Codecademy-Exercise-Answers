@@ -1,0 +1,39 @@
+Sahara Desert
+Sahara Desert
+Arabian Desert
+Gobi Desert
+Kalahari Desert
+Great Basic Desert
+Syrian Desert
+Kalahari Desert
+
+$ uniq deserts.txt
+Arctic Desert
+Sahara Desert
+Arabian Desert
+Gobi Desert
+Kalahari Desert
+Great Basic Desert
+Syrian Desert
+Kalahari Desert
+
+$ sort deserts.txt | uniq
+
+Arabian Desert
+Arctic Desert
+Gobi Desert
+Great Basic Desert
+Kalahari Desert
+Sahara Desert
+Syrian Desert
+$ sort deserts.txt | uniq > uniq-deserts.txt
+$ cat uniq-deserts.txt
+
+Arabian Desert
+Arctic Desert
+Gobi Desert
+Great Basic Desert
+Kalahari Desert
+Sahara Desert
+Syrian Desert
+$ 

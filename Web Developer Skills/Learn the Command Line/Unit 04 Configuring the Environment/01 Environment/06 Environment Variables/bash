@@ -1,0 +1,10 @@
+$ source ~/.bash_profile
+Welcome, Jane Doe
+>> echo "hello"
+hello
+>> ls -alt
+total 12
+drwxr-xr-x 3 ccuser ccuser 4096 Dec 27 17:49 .
+drwxr-xr-x 6 ccuser ccuser 4096 Dec 27 17:49 ..
+drwxr-xr-x 2 ccuser ccuser 4096 Aug  1  2015 artists
+>>  

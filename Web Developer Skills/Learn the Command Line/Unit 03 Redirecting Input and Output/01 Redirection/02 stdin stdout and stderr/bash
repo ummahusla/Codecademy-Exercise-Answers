@@ -1,0 +1,4 @@
+$ echo "Hello" > hello.txt
+$ cat hello.txt
+Hello
+$   

@@ -1,0 +1,6 @@
+$ cat volcanoes.txt | wc
+     17      26     204
+$ cat volcanoes.txt | wc | cat > islands.txt
+$ cat islands.txt
+     17      26     204
+$ 

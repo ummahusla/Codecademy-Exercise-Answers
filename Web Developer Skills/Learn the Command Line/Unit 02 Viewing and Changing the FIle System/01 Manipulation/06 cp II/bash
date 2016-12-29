@@ -1,0 +1,8 @@
+$ cd ..
+$ cd comedy/
+$ touch shrek.txt
+$ cp * satire/
+$ cp cd satire/
+$ cp m*.txt scifi/
+$ cd scifi/
+$ ls -a

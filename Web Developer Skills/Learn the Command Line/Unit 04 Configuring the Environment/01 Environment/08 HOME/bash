@@ -1,0 +1,7 @@
+>> echo $PATH
+/home/ccuser/.bin:/home/ccuser/.gem/ruby/2.0.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin
+>> /bin/pwd
+/home/ccuser/workspace/music
+>> /bin/ls
+artists
+>>  

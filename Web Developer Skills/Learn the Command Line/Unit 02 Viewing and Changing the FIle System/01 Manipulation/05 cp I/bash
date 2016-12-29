@@ -1,0 +1,15 @@
+$ cd ..
+$ cp biopic/cleopatra.txt historical/
+$ ls
+biopic  historical
+$ cd historical/
+$ ls
+cleopatra.txt  gladiator.txt  notorious.txt  ray.txt  selma.txt
+$ cd ..
+$ ls
+biopic  historical
+$ pwd
+/home/ccuser/workspace/movies/drama
+$ cp biopic/ray.txt biopic/notorious.txt historical/
+$ cd historical/
+$       

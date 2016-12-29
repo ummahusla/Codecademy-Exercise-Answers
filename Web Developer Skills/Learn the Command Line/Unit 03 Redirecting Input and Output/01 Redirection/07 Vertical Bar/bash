@@ -1,0 +1,38 @@
+$ cat lakes.txt
+Caspian Sea
+Lake Superior
+Lake Victoria
+Lake Michigan
+Lake Taganyika
+Lake Baikal
+Great Bear Lake
+Lake Malawi
+Lake Titicaca
+Lake Nicaragua
+
+$ sort lakes.txt
+
+Caspian Sea
+Great Bear Lake
+Lake Baikal
+Lake Malawi
+Lake Michigan
+Lake Nicaragua
+Lake Superior
+Lake Taganyika
+Lake Titicaca
+Lake Victoria
+$ cat lakes.txt | sort > sorted-lakes.txt
+$ cat sorted-lakes.txt
+
+Caspian Sea
+Great Bear Lake
+Lake Baikal
+Lake Malawi
+Lake Michigan
+Lake Nicaragua
+Lake Superior
+Lake Taganyika
+Lake Titicaca
+Lake Victoria
+$   

@@ -1,0 +1,43 @@
+.ray {
+  height: 30px;
+}
+
+.ray:nth-child(1) {
+  background: #9900ff;
+}
+
+.ray:nth-child(2) {
+  background: #ff00cc;
+}
+
+.ray:nth-child(3) {
+  background: #ff0033;
+}
+
+.ray:nth-child(4) {
+  background: #ff6600;
+}
+
+.ray:nth-child(5) {
+  background: yellow;
+}
+
+.ray:nth-child(6) {
+  background: #66ff00;
+}
+
+.ray:nth-child(7) {
+  background: #00ff33;
+}
+
+.ray:nth-child(8) {
+  background: #00ffcc;
+}
+
+.ray:nth-child(9) {
+  background: #0099ff;
+}
+
+.ray:nth-child(10) {
+  background: blue;
+}

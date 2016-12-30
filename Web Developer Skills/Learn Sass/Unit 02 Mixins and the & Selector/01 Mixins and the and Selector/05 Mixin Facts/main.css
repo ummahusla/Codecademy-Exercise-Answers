@@ -1,0 +1,70 @@
+.notecard {
+  transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -o-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  -webkit-transform-style: preserve-3d;
+  transition: 0.4s;
+  -webkit-transition: 0.4s;
+  -moz-transition: 0.4s;
+  -o-transition: 0.4s;
+  width: 300px;
+  height: 180px;
+  border: 1px solid black;
+  display: inline-block;
+  margin: 20px;
+  font-family: Roboto, sans-serif;
+  box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+.notecard:hover {
+  transform: rotatey(-180deg);
+  -webkit-transform: rotatey(-180deg);
+  -moz-transform: rotatey(-180deg);
+  -ms-transform: rotatey(-180deg);
+  -o-transform: rotatey(-180deg);
+}
+
+.notecard .front, .notecard .back {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  -o-backface-visibility: hidden;
+}
+
+.notecard .front {
+  z-index: 3;
+  font-size: 20px;
+}
+
+.notecard .front .word {
+  display: block;
+  text-align: center;
+  position: relative;
+  top: 40%;
+}
+
+.notecard .back {
+  z-index: 1;
+  word-wrap: break-word;
+  line-height: 1.6;
+  transform: rotatey(-180deg);
+  -webkit-transform: rotatey(-180deg);
+  -moz-transform: rotatey(-180deg);
+  -ms-transform: rotatey(-180deg);
+  -o-transform: rotatey(-180deg);
+}
+
+.notecard .back .definition {
+  width: 100%;
+  height: 100%;
+}
+
+.notecard .back .definition .photo {
+  width: 60%;
+  margin: 0px auto;
+}

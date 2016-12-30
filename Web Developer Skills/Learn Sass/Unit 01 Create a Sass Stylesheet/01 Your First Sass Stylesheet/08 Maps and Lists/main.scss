@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+//Add variables here:
+$translucent-white: rgba(255,255,255,0.3);
+$icon-square-length: 300px;
+$standard-border: 4px solid black;
+
+h1 {
+  font-family: Roboto, sans-serif;
+  text-align: center;
+}
+
+.banner {
+  .slogan {
+    position: absolute;
+    border: $standard-border;
+    top: 200px;
+    left: 25%;
+    width: 50%;
+    height: 200px;
+    text-align: center;
+		}
+  font-family: 'Pacifico', cursive;
+  height: 400px;
+  background-image: url("lemonade.jpg");
+  border : {
+    top: $standard-border;
+    bottom: $standard-border;
+   	}
+	}
+}
+
+.container {
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+
+  .icon {
+  	display: inline-block;
+  	margin: 2%;
+  	border: $standard-border;
+  	font-size: 32px;
+    width: $icon-square-length;
+		height: $icon-square-length;
+	}
+}

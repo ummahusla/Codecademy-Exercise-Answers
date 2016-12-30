@@ -1,0 +1,105 @@
+@mixin stripes($direction, $width-percent, $stripe-color, $stripe-background: #FFF) {
+  background: repeating-linear-gradient(
+    $direction,
+    $stripe-background,
+    $stripe-background ($width-percent - 1),
+    $stripe-color 1%,
+    $stripe-background $width-percent
+  );
+}
+
+@mixin transform-style($style){
+   transform-style: $style;
+  -moz-transform-style: $style;
+  -o-transform-style: $style;
+  -ms-transform-style: $style;
+  -webkit-transform-style: $style;
+}
+
+@mixin backface-visibility($visibility: hidden) { //Add an argument
+  backface-visibility: $visibility;
+  -webkit-backface-visibility: $visibility;
+  -moz-backface-visibility: $visibility;
+  -ms-backface-visibility: $visibility;
+  -o-backface-visibility: $visibility;
+}
+
+@mixin transform($transformation) {
+  transform: $transformation;
+  -webkit-transform: $transformation;
+  -moz-transform: $transformation;
+  -ms-transform: $transformation;
+  -o-transform: $transformation;
+}
+
+@mixin photo-content($file) {
+  content: url(#{$file}.jpg);
+  object-fit: cover;
+}
+
+@mixin transition($time){
+  transition: $time;
+  -webkit-transition: $time;
+  -moz-transition: $time;
+  -o-transition: $time;
+}
+
+
+$stripe-properties: to bottom, 15%, blue, white;
+
+//Add your own mixins here
+
+.notecard {
+  &:hover{
+  	@include transform (rotatey(-180deg));
+	}
+  @include transform-style(preserve-3d);
+  @include transition(0.4s);
+  width: 300px;
+  height: 180px;
+  border: 1px solid black;
+  display: inline-block;
+  margin: 20px;
+  font-family: Roboto, sans-serif;
+  box-shadow: 1px 1px 2px 2px rgba(0,0,0,.2);
+
+  .front, .back {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    @include backface-visibility(hidden);
+  }
+
+  .front {
+  z-index: 3;
+  font-size: 20px;
+
+    .word {
+      display: block;
+      text-align: center;
+      position: relative;
+      top: 40%;
+    }
+  }
+
+
+  .back {
+  z-index: 1;
+  word-wrap: break-word;
+  line-height: 1.6;
+  @include transform(rotatey(-180deg));
+
+    .definition {
+      width: 100%;
+      height: 100%;
+      @include stripes($stripe-properties...);
+
+      .photo {
+        @include photo-content('titanosaur');
+        width: 60%;
+        margin: 0px auto;
+
+      }
+    }
+  }
+}

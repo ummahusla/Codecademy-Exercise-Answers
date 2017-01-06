@@ -66,7 +66,7 @@ var james = {
 };
 
 // set to the first property name of "james"
-var aProperty = ["job"];
+var aProperty = "job";
 // print the value of the first property of "james" 
 // using the variable "aProperty"
 console.log(james[aProperty]);

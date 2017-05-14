@@ -1,13 +1,21 @@
 var React = require('react');
+var ReactDOM = require('react-dom');
+var Button = require('./Button');
 
-var Button = React.createClass({
+var Talker = React.createClass({
+  handleClick: function () {
+    for (var speech = '', i = 0; i < 10000; i++) {
+      speech += 'blah ';
+    }
+    alert(speech);
+  },
+  
   render: function () {
-    return (
-      <button onClick={this.props.talk}>
-        Click me!
-      </button>
-    );
+    return <Button onClick={this.handleClick} />;
   }
 });
 
-module.exports = Button;
+ReactDOM.render(
+  <Talker />,
+  document.getElementById('app')
+);

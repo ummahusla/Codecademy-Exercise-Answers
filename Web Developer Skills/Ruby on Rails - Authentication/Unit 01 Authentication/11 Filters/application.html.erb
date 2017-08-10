@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link href="http://s3.amazonaws.com/codecademy-content/projects/bootstrap.min.css" rel="stylesheet" />
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,500,300' rel='stylesheet' type='text/css'>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    <%= csrf_meta_tags %>
+  </head>
+  <body>
+
+    <div class="header">
+      <div class="container">
+        <%= link_to root_path do %>
+          <img src="http://s3.amazonaws.com/codecademy-content/courses/rails-auth/img/fotofoto-logo.svg" width="80" height="80"> &#12501; &#65387; &#12488; &#12501; &#65387; &#12488;
+        <% end %>
+
+        <div class="nav pull-right">
+          <% if current_user %>
+            <ul>
+              <li><%= current_user.email %></li>
+              <li><%= link_to "Log out", logout_path, method: "delete" %></li>
+            </ul>
+          <% else %>
+            <ul>
+              <li><%= link_to "Login", 'login' %></a></li>
+              <li><%= link_to "Signup", 'signup' %></a></li>
+            </ul>
+          <% end %>
+
+        </div>
+      </div>
+    </div>
+
+    <%= yield %>
+
+  </body>
+</html>

@@ -1,0 +1,15 @@
+<div class="main actor-index">
+  <div class="container">
+    <div class="row">
+
+     <% @actors.each do |actor| %>
+      <div class="actor col-xs-2">
+        <%= actor.image %>
+        <h3> <%= actor.first_name %> <%= actor.last_name %> </h3>
+        <%= link_to "learn more", actor_path(actor) %>
+        <p> <%= actor.bio %> </p>
+      </div>
+    <% end %>
+
+  </div>
+</div>

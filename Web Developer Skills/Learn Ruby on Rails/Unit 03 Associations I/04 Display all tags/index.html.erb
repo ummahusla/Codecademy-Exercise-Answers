@@ -1,0 +1,21 @@
+<div class="header">
+  <div class="container">
+    <img src="http://s3.amazonaws.com/codecademy-content/courses/learn-rails/img/logo-1tm.svg" width="80">
+    <h1>BokenjiKan</h1>
+  </div>
+</div>
+
+<div class="tags">
+  <div class="container">
+    <div class="cards row">
+
+      <% @tags.each do |t| %>
+        <div class="card col-xs-4">
+          <%= t.image %>
+          <h2><%= t.title %></h2>
+        </div>
+      <% end %>
+
+    </div>
+  </div>
+</div>

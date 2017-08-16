@@ -1,0 +1,1 @@
+SELECT DISTINCT genre FROM movies;

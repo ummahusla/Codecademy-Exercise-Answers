@@ -1,0 +1,7 @@
+#Exercise 01
+SELECT * FROM movies
+WHERE name BETWEEN 'A' AND 'J';
+
+#Exercise 02
+SELECT * FROM movies
+WHERE year BETWEEN 1990 AND 2000;

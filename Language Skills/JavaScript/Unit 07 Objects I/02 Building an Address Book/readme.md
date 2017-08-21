@@ -151,7 +151,7 @@ function list() {
 function search(lastName){
     var contactsLength = contacts.length;
     for(i=0;i<contactsLength;i++){
-        if(this.lastName=contacts[i].lastName){
+        if(this.lastName===contacts[i].lastName){
             printPerson(contacts[i]);
         }
     }

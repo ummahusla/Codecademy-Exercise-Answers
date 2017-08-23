@@ -1,5 +1,5 @@
 ## 1. Introduction to Classes
-```main.js
+```javascript
 class Dog {
   constructor(name) {
     this._name = name;
@@ -26,7 +26,7 @@ console.log(halley.name); // Print name value to console
 console.log(halley.behavior); // Print behavior value to console
 ```
 ## 2. Constructor
-```main.js
+```javascript
 class Surgeon{
   constructor(name,department){
     this.name=name;
@@ -35,7 +35,7 @@ class Surgeon{
 };
 ```
 ## 3. Instance
-```main.js
+```javascript
 class Surgeon {
   constructor(name, department) {
     this.name = name;
@@ -48,7 +48,7 @@ const surgeonCurry = new Surgeon('Curry','Cardiovascular');
 const surgeonDurant = new Surgeon('Durant','Orthopedics');
 ```
 ## 4. Methods
-```main.js
+```javascript
 class Surgeon {
   constructor(name, department) {
     this._name = name;
@@ -78,7 +78,7 @@ const surgeonCurry = new Surgeon('Curry', 'Cardiovascular');
 const surgeonDurant = new Surgeon('Durant', 'Orthopedics');
 ```
 ## 5. Method Calls
-```main.js
+```javascript
 class Surgeon {
   constructor(name, department) {
     this._name = name;
@@ -114,11 +114,11 @@ surgeonCurry.takeVacationDays(3);
 console.log(surgeonCurry.remainingVacationDays);
 ```
 ## 6. Inheritance I
-```main.js
-(nothing)
+```javascript
+// No code necessary 
 ```
 ## 7. Inheritance II
-```main.js
+```javascript
 class HospitalEmployee{
     constructor(name){
       this._name=name
@@ -140,7 +140,7 @@ class HospitalEmployee{
 };
 ```
 ## 8. Inheritance III
-```main.js
+```javascript
 class HospitalEmployee {
   constructor(name) {
     this._name = name;
@@ -170,7 +170,7 @@ class Nurse extends HospitalEmployee {
 const nurseOlynyk= new Nurse('Olynyk',['Trauma','Pediatrics']);
 ```
 ## 9. Inheritance IV
-```main.js
+```javascript
 class HospitalEmployee {
   constructor(name) {
     this._name = name;
@@ -204,7 +204,7 @@ nurseOlynyk.takeVacationDays(5);
 console.log(nurseOlynyk.remainingVacationDays);
 ```
 ## 10. Inheritance V
-```main.js
+```javascript
 class HospitalEmployee {
   constructor(name) {
     this._name = name;
@@ -246,9 +246,8 @@ console.log(nurseOlynyk.remainingVacationDays);
 nurseOlynyk.addCertification('Genetics');
 console.log(nurseOlynyk.certifications);
 ```
-
 ## 10. Static Methods
-```main.js
+```javascript
 class HospitalEmployee {
   constructor(name) {
     this._name = name;

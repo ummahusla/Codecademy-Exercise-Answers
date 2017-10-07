@@ -2,30 +2,21 @@
 
 **[Codecademy](http://www.codecademy.com/)** is an online interactive platform that offers free coding classes in seven different programming languages including **Python**, **PHP**, **jQuery**, **JavaScript**, and **Ruby**, as well as markup languages **HTML** and **CSS**. As of January 2014, the site had over 24 million users who had completed over 100 million exercises. The site has received positive reviews from many blogs and websites, including the New York Times and TechCrunch.
 
-
 ## Structure
-* [**APIs**](APIs) 
-* [**Goals**](Goals) 
-* [**Language Skills**](Language%20Skills) 
-* [**Web Developer SKills**](Web%20Developer%20Skills) 
-* [**Non-trackable Content / Archive**](Non-Trackable%20Content) 
-
-
+* [**APIs**](APIs)
+* [**Goals**](Goals)
+* [**Language Skills**](Language%20Skills)
+* [**Web Developer SKills**](Web%20Developer%20Skills)
+* [**Non-trackable Content / Archive**](Non-Trackable%20Content)
 
 ## [Language Skills](Language%20Skills)
 
-* [**HTML & CSS**](http://www.codecademy.com/en/tracks/web) - Learn how to create websites by structuring and styling your pages with HTML and CSS. 
-* [**JavaScript**](http://www.codecademy.com/en/tracks/javascript) - Learn the fundamentals of JavaScript, the programming language of the Web. 
-* [**jQuery**](http://www.codecademy.com/en/tracks/jquery) - Learn how to make your websites interactive and create animations by using jQuery. 
-* [**PHP**](http://www.codecademy.com/en/tracks/php) - Learn to program in PHP, a widespread language that powers sites like Facebook. 
+* [**HTML & CSS**](http://www.codecademy.com/en/tracks/web) - Learn how to create websites by structuring and styling your pages with HTML and CSS.
+* [**JavaScript**](http://www.codecademy.com/en/tracks/javascript) - Learn the fundamentals of JavaScript, the programming language of the Web.
+* [**jQuery**](http://www.codecademy.com/en/tracks/jquery) - Learn how to make your websites interactive and create animations by using jQuery.
+* [**PHP**](http://www.codecademy.com/en/tracks/php) - Learn to program in PHP, a widespread language that powers sites like Facebook.
 * [**Python**](http://www.codecademy.com/en/tracks/python) - Learn to program in Python, a powerful language used by sites like YouTube and Dropbox. <br />
 * [**Ruby**](http://www.codecademy.com/en/tracks/ruby) - Learn to program in Ruby, a ﬂexible language used to create sites like Codecademy.
-
-## [Goals](Goals)
-
-* [**Animate Your Name**](http://www.codecademy.com/en/goals/animate-your-name) - Create an animation of your name <br />
-* [**About You**](http://www.codecademy.com/en/goals/web-beginner-en-3pc6w) - Make a website all about you <br />
-* [**Sun, Earth, and Code**](http://www.codecademy.com/en/goals/web-beginner-en-ymqg0) - Build your own galaxy <br />
 
 ## [Web Application Skills](https://github.com/ummahusla/codecademy-exercise-answers/tree/master/Web%20Developer%20Skills)
 

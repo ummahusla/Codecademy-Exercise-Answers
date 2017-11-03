@@ -1,0 +1,283 @@
+## 1. Introduction to Grids
+```css
+// ATTENTION: We do not advise the copy of a whole answer of some
+//            of the exercises, since (maybe) some snippet of the
+//            answer might need to be deleted in order to the codecademy
+//            platform recognize the answer, of a first step, as right. 
+//
+
+/* no code is necessary */
+```
+## 2. Creating a Grid
+```css
+.grid {
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  display:grid;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+```
+## 3. Creating Columns
+```css
+.grid {
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  display: grid;
+  grid-template-columns:100px 50% 200px;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+```
+## 4. Creating Rows
+```css
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  grid-template-columns: 100px 50% 200px;
+  grid-template-rows:40% 50% 50px;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+```
+## 5. Grid Template
+```css
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  grid-template: 40% 50% 50px/ 100px 50% 200px;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+```
+## 6. Fraction
+```css
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  grid-template-columns: 3fr 50% 1fr;
+  grid-template-rows: 150px 200px 50px;
+  grid-template: 1fr 1fr 1fr / 3fr 50% 1fr;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+```
+## 7. Repeat
+```css
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  grid-template: repeat(3, 1fr) / 3fr 50% 1fr;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+```
+## 8. Minmax
+```css
+.grid {
+  display: grid;
+  border: 2px blue solid;
+
+  height: 500px;
+  grid-template: repeat(3, 1fr) / 3fr minmax(50px,300px) 1fr;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+```
+## 9. Grid Gap
+```css
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  height: 500px;
+  width:400px;
+  grid-template: repeat(3, 1fr) / 3fr 50% 1fr;
+  grid-gap:20px 5px;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+```
+## 10. Grid Items
+```css
+/* No code necessary */
+```
+## 11. Multiple Rows Items
+```css
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  height: 500px;
+  width: 500px;
+  grid-template: repeat(4, 1fr 2fr) / repeat(4, 3fr 2fr);
+  grid-gap: 5px;
+}
+
+.a {
+  grid-row-start: 5;
+  grid-row-end: 7;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+```
+## 12. Grid Row 
+```css
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  height: 500px;
+  width:500px;
+  grid-template: repeat(4, 1fr 2fr) / repeat(4, 3fr 2fr);
+  grid-gap: 5px;
+}
+
+.a {
+  grid-row:5 / 7;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+```
+## 13. Grid Column 
+```css
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  height: 500px;
+  width:500px;
+  grid-template: repeat(4, 1fr 2fr) / repeat(4, 3fr 2fr);
+  grid-gap: 5px;
+}
+
+.a {
+  grid-row: 5 / 7;
+  grid-column: 1 / span 2;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+
+.b {
+  grid-column: 2 / span 6;
+  grid-row: 2 / span 3;
+}
+```
+## 14. Grid Area 
+```css
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  height: 500px;
+  width: 500px;
+  grid-template: repeat(4, 1fr 2fr) / repeat(4, 3fr 2fr);
+  grid-gap: 5px;
+}
+
+.a {
+  grid-area: 5 / 1 / span 2 / span 2;
+}
+
+.b {
+  grid-area: 2 / 2 / span 3 / span 6;
+  grid-column: 2 / span 6;
+  grid-row: 2 / span 3;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+
+.c {
+  grid-area: 6 / 8 / span 3 / span 1;
+}
+```
+## 15. Review 
+```css
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  height: 500px;
+  width: 500px;
+  grid-template-columns: 25% 25% 2fr 1fr;
+  grid-template-rows: 200px 200px;
+  grid-row-gap: 10px;
+  grid-column-gap:15px;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+
+.a{
+  grid-column: 1 / span 2;
+  grid-row: 1 / 3;
+}
+```

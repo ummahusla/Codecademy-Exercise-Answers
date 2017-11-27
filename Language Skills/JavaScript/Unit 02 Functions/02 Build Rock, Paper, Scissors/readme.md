@@ -1,18 +1,18 @@
-##1. The Game
+## 1. The Game
 ```script.js
 //No code necessary
 ```
-##2. User Choice
+## 2. User Choice
 ```script.js
 var userChoice = prompt("Do you choose rock, paper or scissors?");
 ```
-##3. Computer Choice: Part 1
+## 3. Computer Choice: Part 1
 ```script.js
 var userChoice = prompt("Do you choose rock, paper or scissors?");
 var computerChoice = Math.random();
 console.log(computerChoice);
 ```
-##4. Computer Choice: Part 2
+## 4. Computer Choice: Part 2
 ```script.js
 var userChoice = prompt("Do you choose rock, paper or scissors?");
 var computerChoice = Math.random();
@@ -31,7 +31,7 @@ else
     computerChoice = "scissors";
 }
 ```
-##5. Both choices are the same!
+## 5. Both choices are the same!
 ```script.js
 /*var userChoice = prompt("Do you choose rock, paper or scissors?");
 var computerChoice = Math.random();
@@ -51,7 +51,7 @@ var compare = function(choice1, choice2)
     }
 }
 ```
-##6. What if choice1 is rock?
+## 6. What if choice1 is rock?
 ```script.js
 /*var userChoice = prompt("Do you choose rock, paper or scissors?");
 var computerChoice = Math.random();
@@ -82,7 +82,7 @@ var compare = function(choice1, choice2)
     }
 }
 ```
-##7. What if choice1 is paper?
+## 7. What if choice1 is paper?
 ```script.js
 /*var userChoice = prompt("Do you choose rock, paper or scissors?");
 var computerChoice = Math.random();
@@ -118,7 +118,7 @@ var compare = function(choice1, choice2)
     }
 }
 ```
-##8. What if choice1 is scissors?
+## 8. What if choice1 is scissors?
 ```script.js
 var userChoice = prompt("Do you choose rock, paper or scissors?");
 var computerChoice = Math.random();
@@ -164,7 +164,7 @@ var compare = function(choice1, choice2)
 
 
 ```
-##9. Next Steps
+## 9. Next Steps
 ```script.js
 var userChoice = prompt("Do you choose rock, paper or scissors?");
 var computerChoice = Math.random();

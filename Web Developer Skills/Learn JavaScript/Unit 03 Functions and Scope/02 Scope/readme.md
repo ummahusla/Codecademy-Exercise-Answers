@@ -1,45 +1,69 @@
-##1. Global Scope
-```scope.js
-var laundryRoom = 'Basement';
-var mailRoom = 'Room 1A';
+##2. Global Scope
+```sky.js
+const satellite = 'The Moon';
+const galaxy = 'The Milky Way';
 
-console.log('Laundry: ' + laundryRoom +  ', Mail: ' + mailRoom);
-```
-##2. Functional scope
-```scope.js
-var laundryRoom = 'Basement';
-var mailRoom = 'Room 1A';
+let stars = 'North Star';
 
-function myApartment() {
-  var mailBoxNumber = 'Box 3';
-  var laundryRoom = 'In-unit';
-  console.log('Mail box: ' + mailBoxNumber + ', Laundry:' + laundryRoom);
+const myNightSky = () => {
+  return 'Night Sky: ' + satellite + ', ' + stars + ', ' + galaxy;
 };
 
-console.log('Laundry: ' + laundryRoom +  ', Mail: ' + mailRoom);
-console.log(myApartment());
+console.log(myNightSky());
 ```
-##3 Scoping
-```apartment.js
-var buildingAddress = '150 E 14th St, New York, NY';
-var buildingLaundryCode = 4927;
-var buildingPhone = '(481) 516-2342';
 
-function myApartment() {
-	var myCoffeeMaker = 'Aeropress';
-	var myCloset = 'Extra coats in the back';
-	var myRefridgerator = 'Filled with veggies and dark chocolate.';
-	var myDog = 'Nikko';
-}
+##3. Global Scope II
+```sky.js
+const satellite = 'The Moon';
+const galaxy = 'The Milky Way';v
 
+let stars = 'North Star';
 
+const myNightSky = () => {
+  stars = 'Sirius';
+  return 'Night Sky: ' + satellite + ', ' + stars + ', ' + galaxy;
+};
 
+console.log(myNightSky());
+console.log(stars);
+```
 
+##4. Block Scope
+```light.js
+const visibleLightWaves = () => {
+  let lightWaves = 'Moonlight';
+  console.log(lightWaves);
+};
 
+visibleLightWaves();
+console.log(lightWaves);
+```
 
+##5. Block Scope II
+```light.js
+const visibleLightWaves = () => {
+  let lightWaves = 'Moonlight';
+  let region = 'The Arctic';
+  if (region === 'The Arctic') {
+    let lightWaves = 'Northern Lights';
+    console.log(lightWaves);  
+  }
+  console.log(lightWaves);
+};
 
+visibleLightWaves();
+```
 
-// Do not edit the code after this line
-console.log("**Apartment Building Information**");
-console.log("Laundry code: " + buildingLaundryCode + "\nPhone: " + buildingPhone + "\nMailing address: " + buildingAddress);
+##6. Block Scope III
+```starCount.js
+const starCount = () => {
+  let i = 5;
+  console.log(i);
+  for (let i = 0; i < 12; i++ ) {
+    console.log(i); // All numbers from 0 to 11
+  }
+};
+
+starCount();
+console.log(i);
 ```

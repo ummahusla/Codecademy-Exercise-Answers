@@ -17,7 +17,7 @@ console.log('Salami', 'Cheese');
 ##4. Math Operators
 ```mathOperators.js
 console.log(30 + 3.5);
-console.log(2017 - 1969);
+console.log(2018 - 1969);
 console.log(65 / 240);
 console.log(0.2708333333333333 * 100)
 ```

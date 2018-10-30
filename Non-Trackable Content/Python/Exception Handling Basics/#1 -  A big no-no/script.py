@@ -1,3 +1,4 @@
+#assign variables
 numerator = 32
 denominator = 1
 

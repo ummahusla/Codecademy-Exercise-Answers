@@ -1,3 +1,9 @@
 ALTER TABLE celebs ADD COLUMN twitter_handle TEXT;
 
 SELECT * FROM celebs;
+
+#or
+
+UPDATE TABLE celebs SET COLUMN = TEXT,
+WHERE 
+  #search condition

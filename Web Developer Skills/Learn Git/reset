@@ -1,1 +1,5 @@
 git reset HEAD <filename>
+
+----
+git log
+git reset commit_SHA

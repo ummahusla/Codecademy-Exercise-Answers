@@ -2,7 +2,7 @@
 
 ### This exercise answer is updated as of:
 
-February 6, 2019 by [Howie Zhu](https://github.com/LifeisaJourney).
+* February 6, 2019 by [Howie Zhu](https://github.com/LifeisaJourney).
 
 ```script.js
 If you already finished this task and you want to share your answer. Please follow these steps: 

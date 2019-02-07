@@ -1,1 +1,0 @@
-git reset HEAD <filename>

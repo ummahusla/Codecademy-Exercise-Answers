@@ -1,2 +1,3 @@
-git add <file_name>
+```script.js
 git diff <filename>
+```
